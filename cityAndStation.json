@@ -1,0 +1,6820 @@
+{
+  "cityAndStation": [
+    {
+      "city": "天津",
+      "areaid": "101030100",
+      "stations": [
+        {
+          "latitude": 39.104854678291,
+          "station_name": "市监测中心",
+          "station_code": "1013A",
+          "longitude": 117.16559239218
+        },
+        {
+          "latitude": 39.260027624738,
+          "station_name": "机车车辆厂",
+          "station_code": "1014A",
+          "longitude": 117.36014398597
+        },
+        {
+          "latitude": 39.119616239602,
+          "station_name": "继电器厂",
+          "station_code": "1015A",
+          "longitude": 117.19301496448
+        },
+        {
+          "latitude": 39.126277937257,
+          "station_name": "南京路",
+          "station_code": "1016A",
+          "longitude": 117.19447830416
+        },
+        {
+          "latitude": 39.135024649384,
+          "station_name": "河东站",
+          "station_code": "1017A",
+          "longitude": 117.25867480912
+        },
+        {
+          "latitude": 39.115763081305,
+          "station_name": "河西站",
+          "station_code": "1018A",
+          "longitude": 117.22977452426
+        },
+        {
+          "latitude": 39.232648053184,
+          "station_name": "北辰科技园区",
+          "station_code": "1019A",
+          "longitude": 117.23417352634
+        },
+        {
+          "latitude": 39.141452620068,
+          "station_name": "天山路",
+          "station_code": "1020A",
+          "longitude": 117.28452175356
+        },
+        {
+          "latitude": 39.089103570121,
+          "station_name": "东丽中学",
+          "station_code": "1021A",
+          "longitude": 117.31591573453
+        },
+        {
+          "latitude": 38.938617998345,
+          "station_name": "梅江小区",
+          "station_code": "1022A",
+          "longitude": 116.97789864231
+        },
+        {
+          "latitude": 39.088719215831,
+          "station_name": "泰丰工业园",
+          "station_code": "1023A",
+          "longitude": 117.21619394156
+        },
+        {
+          "latitude": 38.844714933027,
+          "station_name": "永明路",
+          "station_code": "1024A",
+          "longitude": 117.47072521459
+        },
+        {
+          "latitude": 39.134853238062,
+          "station_name": "空港物流加工区",
+          "station_code": "1025A",
+          "longitude": 117.43462231614
+        },
+        {
+          "latitude": 39.122976137801,
+          "station_name": "中新生态城",
+          "station_code": "1026A",
+          "longitude": 117.74398903208
+        },
+        {
+          "latitude": 38.854702185354,
+          "station_name": "团泊洼",
+          "station_code": "1027A",
+          "longitude": 117.22415562329
+        }
+      ]
+    },
+    {
+      "city": "石家庄",
+      "areaid": "101090101",
+      "stations": [
+        {
+          "latitude": 37.995789032433,
+          "station_name": "化工学校",
+          "station_code": "1028A",
+          "longitude": 114.61131097967
+        },
+        {
+          "latitude": 38.054477701574,
+          "station_name": "职工医院",
+          "station_code": "1029A",
+          "longitude": 114.53025328028
+        },
+        {
+          "latitude": 38.045220708731,
+          "station_name": "高新区",
+          "station_code": "1030A",
+          "longitude": 114.60891609718
+        },
+        {
+          "latitude": 38.056818224545,
+          "station_name": "西北水源",
+          "station_code": "1031A",
+          "longitude": 114.47160830337
+        },
+        {
+          "latitude": 38.033364550068,
+          "station_name": "西南高教",
+          "station_code": "1032A",
+          "longitude": 114.43813995532
+        },
+        {
+          "latitude": 38.025790257034,
+          "station_name": "世纪公园",
+          "station_code": "1033A",
+          "longitude": 114.5435801815
+        },
+        {
+          "latitude": 38.052534051206,
+          "station_name": "人民会堂",
+          "station_code": "1034A",
+          "longitude": 114.52228297481
+        },
+        {
+          "latitude": 37.914939015122,
+          "station_name": "封龙山",
+          "station_code": "1035A",
+          "longitude": 114.35962796392
+        }
+      ]
+    },
+    {
+      "city": "唐山",
+      "areaid": "101090501",
+      "stations": [
+        {
+          "latitude": 39.626179349739,
+          "station_name": "供销社",
+          "station_code": "1036A",
+          "longitude": 118.20494803672
+        },
+        {
+          "latitude": 39.734203035517,
+          "station_name": "雷达站",
+          "station_code": "1037A",
+          "longitude": 118.02823391578
+        },
+        {
+          "latitude": 40.176028360725,
+          "station_name": "物资局",
+          "station_code": "1038A",
+          "longitude": 117.97016870525
+        },
+        {
+          "latitude": 39.881903298851,
+          "station_name": "陶瓷公司",
+          "station_code": "1039A",
+          "longitude": 116.29110096127
+        },
+        {
+          "latitude": 39.656216110331,
+          "station_name": "十二中",
+          "station_code": "1040A",
+          "longitude": 118.17936097207
+        },
+        {
+          "latitude": 39.73518911569,
+          "station_name": "小山",
+          "station_code": "1041A",
+          "longitude": 118.31033903577
+        }
+      ]
+    },
+    {
+      "city": "秦皇岛",
+      "areaid": "101091101",
+      "stations": [
+        {
+          "latitude": 39.827963434507,
+          "station_name": "北戴河环保局",
+          "station_code": "1042A",
+          "longitude": 119.52579489926
+        },
+        {
+          "latitude": 40.017342325581,
+          "station_name": "第一关",
+          "station_code": "1043A",
+          "longitude": 119.76640872503
+        },
+        {
+          "latitude": 39.956691648142,
+          "station_name": "监测站",
+          "station_code": "1044A",
+          "longitude": 119.60221015578
+        },
+        {
+          "latitude": 39.941267585932,
+          "station_name": "市政府",
+          "station_code": "1045A",
+          "longitude": 119.60730714124
+        },
+        {
+          "latitude": 39.723141830404,
+          "station_name": "建设大厦",
+          "station_code": "1046A",
+          "longitude": 119.18861951932
+        }
+      ]
+    },
+    {
+      "city": "邯郸",
+      "areaid": "101091001",
+      "stations": [
+        {
+          "latitude": 36.618301195213,
+          "station_name": "环保局",
+          "station_code": "1047A",
+          "longitude": 114.51270937367
+        },
+        {
+          "latitude": 36.619510910904,
+          "station_name": "东污水处理厂",
+          "station_code": "1048A",
+          "longitude": 114.54466201083
+        },
+        {
+          "latitude": 36.578310641429,
+          "station_name": "矿院",
+          "station_code": "1049A",
+          "longitude": 114.50762523397
+        },
+        {
+          "latitude": 36.622613937811,
+          "station_name": "丛台公园",
+          "station_code": "1050A",
+          "longitude": 114.49715099173
+        }
+      ]
+    },
+    {
+      "city": "保定",
+      "areaid": "101090201",
+      "stations": [
+        {
+          "latitude": 38.861870119485,
+          "station_name": "游泳馆",
+          "station_code": "1051A",
+          "longitude": 115.49178997612
+        },
+        {
+          "latitude": 38.891847097244,
+          "station_name": "华电二区",
+          "station_code": "1052A",
+          "longitude": 115.52078098984
+        },
+        {
+          "latitude": 38.91454898292,
+          "station_name": "接待中心",
+          "station_code": "1053A",
+          "longitude": 115.47424481188
+        },
+        {
+          "latitude": 38.837897963912,
+          "station_name": "地表水厂",
+          "station_code": "1054A",
+          "longitude": 115.46662915743
+        },
+        {
+          "latitude": 38.878902603329,
+          "station_name": "胶片厂",
+          "station_code": "1055A",
+          "longitude": 115.45890444869
+        },
+        {
+          "latitude": 38.870670982843,
+          "station_name": "监测站",
+          "station_code": "1056A",
+          "longitude": 115.52082195258
+        }
+      ]
+    },
+    {
+      "city": "张家口",
+      "areaid": "101090301",
+      "stations": [
+        {
+          "latitude": 40.830985130256,
+          "station_name": "人民公园",
+          "station_code": "1057A",
+          "longitude": 114.89585194487
+        },
+        {
+          "latitude": 40.791333598446,
+          "station_name": "探机厂",
+          "station_code": "1058A",
+          "longitude": 114.889465891
+        },
+        {
+          "latitude": 34.815251253624,
+          "station_name": "五金库",
+          "station_code": "1059A",
+          "longitude": 113.64420486611
+        },
+        {
+          "latitude": 40.766264778138,
+          "station_name": "世纪豪园",
+          "station_code": "1060A",
+          "longitude": 114.90330428738
+        },
+        {
+          "latitude": 39.882533657751,
+          "station_name": "北泵房",
+          "station_code": "1061A",
+          "longitude": 116.18562228761
+        }
+      ]
+    },
+    {
+      "city": "承德",
+      "areaid": "101090402",
+      "stations": [
+        {
+          "latitude": 40.992521052457,
+          "station_name": "铁路",
+          "station_code": "1062A",
+          "longitude": 117.93382245584
+        },
+        {
+          "latitude": 40.985513800896,
+          "station_name": "中国银行",
+          "station_code": "1063A",
+          "longitude": 117.94623066002
+        },
+        {
+          "latitude": 40.928387565671,
+          "station_name": "开发区",
+          "station_code": "1064A",
+          "longitude": 117.96178751484
+        },
+        {
+          "latitude": 40.771359007014,
+          "station_name": "文化中心",
+          "station_code": "1065A",
+          "longitude": 118.17628301807
+        },
+        {
+          "latitude": 41.002787936709,
+          "station_name": "离宫",
+          "station_code": "1066A",
+          "longitude": 117.94006801473
+        }
+      ]
+    },
+    {
+      "city": "廊坊",
+      "areaid": "101090601",
+      "stations": [
+        {
+          "latitude": 39.535333527618,
+          "station_name": "药材公司",
+          "station_code": "1067A",
+          "longitude": 116.71406811064
+        },
+        {
+          "latitude": 39.574091759669,
+          "station_name": "开发区",
+          "station_code": "1068A",
+          "longitude": 116.7641935581
+        },
+        {
+          "latitude": 39.556401036467,
+          "station_name": "环境监测监理中心",
+          "station_code": "1069A",
+          "longitude": 116.71512721284
+        },
+        {
+          "latitude": 39.535446355522,
+          "station_name": "北华航天学院",
+          "station_code": "1070A",
+          "longitude": 116.73726424535
+        }
+      ]
+    },
+    {
+      "city": "沧州",
+      "areaid": "101090701",
+      "stations": [
+        {
+          "latitude": 38.298964338689,
+          "station_name": "沧县城建局",
+          "station_code": "1071A",
+          "longitude": 116.88539653073
+        },
+        {
+          "latitude": 38.311226902208,
+          "station_name": "电视转播站",
+          "station_code": "1072A",
+          "longitude": 116.85871506047
+        },
+        {
+          "latitude": 38.323001893759,
+          "station_name": "市环保局",
+          "station_code": "1073A",
+          "longitude": 116.87056011693
+        }
+      ]
+    },
+    {
+      "city": "衡水",
+      "areaid": "101090801",
+      "stations": [
+        {
+          "latitude": 37.746999594836,
+          "station_name": "电机北厂",
+          "station_code": "1074A",
+          "longitude": 115.69335050882
+        },
+        {
+          "latitude": 37.737908989253,
+          "station_name": "市监测站",
+          "station_code": "1075A",
+          "longitude": 115.64173656914
+        },
+        {
+          "latitude": 37.739063301036,
+          "station_name": "市环保局",
+          "station_code": "1076A",
+          "longitude": 115.69005552421
+        }
+      ]
+    },
+    {
+      "city": "邢台",
+      "areaid": "101090901",
+      "stations": [
+        {
+          "latitude": 37.094864977601,
+          "station_name": "达活泉",
+          "station_code": "1077A",
+          "longitude": 114.48554704047
+        },
+        {
+          "latitude": 37.108551079275,
+          "station_name": "邢师高专",
+          "station_code": "1078A",
+          "longitude": 114.45515314303
+        },
+        {
+          "latitude": 37.093562941089,
+          "station_name": "路桥公司",
+          "station_code": "1079A",
+          "longitude": 114.52840196245
+        },
+        {
+          "latitude": 37.107345982166,
+          "station_name": "市环保局",
+          "station_code": "1080A",
+          "longitude": 114.48993202899
+        }
+      ]
+    },
+    {
+      "city": "太原",
+      "areaid": "101100101",
+      "stations": [
+        {
+          "latitude": 37.94610320551,
+          "station_name": "尖草坪",
+          "station_code": "1081A",
+          "longitude": 112.49359526534
+        },
+        {
+          "latitude": 37.921235657059,
+          "station_name": "涧河",
+          "station_code": "1082A",
+          "longitude": 112.58151512051
+        },
+        {
+          "latitude": 38.013584158711,
+          "station_name": "上兰",
+          "station_code": "1083A",
+          "longitude": 112.46043701235
+        },
+        {
+          "latitude": 37.721123759126,
+          "station_name": "晋源",
+          "station_code": "1084A",
+          "longitude": 112.48426276939
+        },
+        {
+          "latitude": 37.742563223207,
+          "station_name": "小店",
+          "station_code": "1085A",
+          "longitude": 112.57226616698
+        },
+        {
+          "latitude": 37.913122518967,
+          "station_name": "桃园",
+          "station_code": "1086A",
+          "longitude": 112.17624279308
+        },
+        {
+          "latitude": 37.810967211952,
+          "station_name": "坞城",
+          "station_code": "1087A",
+          "longitude": 112.58001854353
+        },
+        {
+          "latitude": 37.881453433618,
+          "station_name": "南寨",
+          "station_code": "1088A",
+          "longitude": 112.46513335356
+        },
+        {
+          "latitude": 37.780615703974,
+          "station_name": "金胜",
+          "station_code": "1089A",
+          "longitude": 112.49723160604
+        }
+      ]
+    },
+    {
+      "city": "呼和浩特",
+      "areaid": "101080101",
+      "stations": [
+        {
+          "latitude": 40.848397006574,
+          "station_name": "呼市一监",
+          "station_code": "1090A",
+          "longitude": 111.75527706838
+        },
+        {
+          "latitude": 40.805665864592,
+          "station_name": "小召",
+          "station_code": "1091A",
+          "longitude": 111.66537195802
+        },
+        {
+          "latitude": 40.851610614491,
+          "station_name": "兴松小区",
+          "station_code": "1092A",
+          "longitude": 111.66824473905
+        },
+        {
+          "latitude": 40.819588946503,
+          "station_name": "糖厂",
+          "station_code": "1093A",
+          "longitude": 111.64327454078
+        },
+        {
+          "latitude": 40.552097778068,
+          "station_name": "如意水处理厂",
+          "station_code": "1094A",
+          "longitude": 111.74177391961
+        },
+        {
+          "latitude": 40.813637580053,
+          "station_name": "二十九中",
+          "station_code": "1095A",
+          "longitude": 111.74313826602
+        },
+        {
+          "latitude": 40.794086421947,
+          "station_name": "工大金川校区",
+          "station_code": "1096A",
+          "longitude": 111.55964409442
+        },
+        {
+          "latitude": 40.762927468202,
+          "station_name": "化肥厂生活区",
+          "station_code": "1097A",
+          "longitude": 111.7316076165
+        }
+      ]
+    },
+    {
+      "city": "沈阳",
+      "areaid": "101070101",
+      "stations": [
+        {
+          "latitude": 41.931582906359,
+          "station_name": "辉山",
+          "station_code": "1098A",
+          "longitude": 123.66213496576
+        },
+        {
+          "latitude": 41.753544879074,
+          "station_name": "浑南二",
+          "station_code": "1099A",
+          "longitude": 123.46727004301
+        },
+        {
+          "latitude": 41.711684102671,
+          "station_name": "东软",
+          "station_code": "1100A",
+          "longitude": 123.44604955161
+        },
+        {
+          "latitude": 41.788094187782,
+          "station_name": "张士",
+          "station_code": "1101A",
+          "longitude": 123.2888523755
+        },
+        {
+          "latitude": 41.844699908896,
+          "station_name": "炮兵学院",
+          "station_code": "1102A",
+          "longitude": 123.56500002317
+        },
+        {
+          "latitude": 41.858120906504,
+          "station_name": "北陵",
+          "station_code": "1103A",
+          "longitude": 123.43406301204
+        },
+        {
+          "latitude": 41.783713825508,
+          "station_name": "文艺路",
+          "station_code": "1104A",
+          "longitude": 123.45851174395
+        },
+        {
+          "latitude": 41.795322638862,
+          "station_name": "小河沿",
+          "station_code": "1105A",
+          "longitude": 123.48572860429
+        },
+        {
+          "latitude": 41.796091689111,
+          "station_name": "太原街",
+          "station_code": "1106A",
+          "longitude": 123.40841144905
+        },
+        {
+          "latitude": 41.519135611297,
+          "station_name": "二毛",
+          "station_code": "1107A",
+          "longitude": 123.98562347626
+        },
+        {
+          "latitude": 41.839339824881,
+          "station_name": "辽大",
+          "station_code": "1108A",
+          "longitude": 123.41265145105
+        }
+      ]
+    },
+    {
+      "city": "大连",
+      "areaid": "101070201",
+      "stations": [
+        {
+          "latitude": 38.958349148185,
+          "station_name": "甘井子",
+          "station_code": "1109A",
+          "longitude": 121.5319159167
+        },
+        {
+          "latitude": 38.956537048438,
+          "station_name": "周水子",
+          "station_code": "1110A",
+          "longitude": 121.57133976079
+        },
+        {
+          "latitude": 38.884051617466,
+          "station_name": "星海三站",
+          "station_code": "1111A",
+          "longitude": 121.57449110635
+        },
+        {
+          "latitude": 38.928525943317,
+          "station_name": "青泥洼桥",
+          "station_code": "1112A",
+          "longitude": 121.6430260676
+        },
+        {
+          "latitude": 38.870634113245,
+          "station_name": "傅家庄",
+          "station_code": "1113A",
+          "longitude": 121.62937200351
+        },
+        {
+          "latitude": 38.860626219178,
+          "station_name": "七贤岭",
+          "station_code": "1114A",
+          "longitude": 121.53572320494
+        },
+        {
+          "latitude": 38.854758380284,
+          "station_name": "旅顺",
+          "station_code": "1115A",
+          "longitude": 121.1697712368
+        },
+        {
+          "latitude": 39.100531929467,
+          "station_name": "金州",
+          "station_code": "1116A",
+          "longitude": 121.69652384377
+        },
+        {
+          "latitude": 39.050504073512,
+          "station_name": "开发区",
+          "station_code": "1117A",
+          "longitude": 121.78631900153
+        },
+        {
+          "latitude": 39.068618254968,
+          "station_name": "双D港",
+          "station_code": "1118A",
+          "longitude": 121.87146039777
+        }
+      ]
+    },
+    {
+      "city": "长春",
+      "areaid": "101060101",
+      "stations": [
+        {
+          "latitude": 43.898337607098,
+          "station_name": "食品厂",
+          "station_code": "1119A",
+          "longitude": 125.3136424272
+        },
+        {
+          "latitude": 43.949120743956,
+          "station_name": "客车厂",
+          "station_code": "1120A",
+          "longitude": 125.17891771088
+        },
+        {
+          "latitude": 43.855254145955,
+          "station_name": "邮电学院",
+          "station_code": "1121A",
+          "longitude": 125.30017898354
+        },
+        {
+          "latitude": 43.883259891401,
+          "station_name": "劳动公园",
+          "station_code": "1122A",
+          "longitude": 125.37622692293
+        },
+        {
+          "latitude": 43.923592304866,
+          "station_name": "园林处",
+          "station_code": "1123A",
+          "longitude": 125.34081032989
+        },
+        {
+          "latitude": 43.805868331567,
+          "station_name": "净月潭",
+          "station_code": "1124A",
+          "longitude": 125.45910926047
+        },
+        {
+          "latitude": 43.882821309113,
+          "station_name": "甩湾子",
+          "station_code": "1125A",
+          "longitude": 125.51205071604
+        },
+        {
+          "latitude": 43.867416886711,
+          "station_name": "经开区环卫处",
+          "station_code": "1126A",
+          "longitude": 125.43191647471
+        },
+        {
+          "latitude": 43.827725131034,
+          "station_name": "高新区管委会",
+          "station_code": "1127A",
+          "longitude": 125.25967600504
+        },
+        {
+          "latitude": 43.860272110676,
+          "station_name": "岱山公园",
+          "station_code": "1128A",
+          "longitude": 125.22992403672
+        }
+      ]
+    },
+    {
+      "city": "哈尔滨",
+      "areaid": "101050101",
+      "stations": [
+        {
+          "latitude": 47.357612542037,
+          "station_name": "岭北",
+          "station_code": "1129A",
+          "longitude": 130.32942959694
+        },
+        {
+          "latitude": 45.824530073625,
+          "station_name": "松北商大",
+          "station_code": "1130A",
+          "longitude": 126.57078369904
+        },
+        {
+          "latitude": 45.554435231263,
+          "station_name": "阿城会宁",
+          "station_code": "1131A",
+          "longitude": 126.96445620743
+        },
+        {
+          "latitude": 45.76575362116,
+          "station_name": "南岗学府路",
+          "station_code": "1132A",
+          "longitude": 126.67533927396
+        },
+        {
+          "latitude": 45.79438928242,
+          "station_name": "太平宏伟公园",
+          "station_code": "1133A",
+          "longitude": 126.69915245472
+        },
+        {
+          "latitude": 45.788519037513,
+          "station_name": "道外承德广场",
+          "station_code": "1134A",
+          "longitude": 126.70955842575
+        },
+        {
+          "latitude": 45.737013829799,
+          "station_name": "香坊红旗大街",
+          "station_code": "1135A",
+          "longitude": 126.69906172587
+        },
+        {
+          "latitude": 45.726702325759,
+          "station_name": "动力和平路",
+          "station_code": "1136A",
+          "longitude": 126.65508967115
+        },
+        {
+          "latitude": 45.980401706729,
+          "station_name": "道里建国路",
+          "station_code": "1137A",
+          "longitude": 128.75275071499
+        },
+        {
+          "latitude": 45.619413816716,
+          "station_name": "平房东轻厂",
+          "station_code": "1138A",
+          "longitude": 126.63029823569
+        },
+        {
+          "latitude": 45.988361911435,
+          "station_name": "呼兰师专",
+          "station_code": "1139A",
+          "longitude": 126.61659817835
+        },
+        {
+          "latitude": 45.691381959163,
+          "station_name": "省农科院",
+          "station_code": "1140A",
+          "longitude": 126.62520601124
+        }
+      ]
+    },
+    {
+      "city": "上海",
+      "areaid": "101020100",
+      "stations": [
+        {
+          "latitude": 31.255103100386,
+          "station_name": "普陀",
+          "station_code": "1141A",
+          "longitude": 121.40352919491
+        },
+        {
+          "latitude": 31.223355428466,
+          "station_name": "十五厂",
+          "station_code": "1142A",
+          "longitude": 121.36164031067
+        },
+        {
+          "latitude": 31.270147253324,
+          "station_name": "虹口",
+          "station_code": "1143A",
+          "longitude": 121.51173548342
+        },
+        {
+          "latitude": 31.167510759466,
+          "station_name": "徐汇上师大",
+          "station_code": "1144A",
+          "longitude": 121.42322813644
+        },
+        {
+          "latitude": 31.304510479542,
+          "station_name": "杨浦四漂",
+          "station_code": "1145A",
+          "longitude": 121.53571659963
+        },
+        {
+          "latitude": 31.092683827998,
+          "station_name": "青浦淀山湖",
+          "station_code": "1146A",
+          "longitude": 120.93818798649
+        },
+        {
+          "latitude": 31.230468522811,
+          "station_name": "静安监测站",
+          "station_code": "1147A",
+          "longitude": 121.43626793922
+        },
+        {
+          "latitude": 31.197703193564,
+          "station_name": "浦东川沙",
+          "station_code": "1148A",
+          "longitude": 121.70009128445
+        },
+        {
+          "latitude": 31.23270099965,
+          "station_name": "浦东新区监测站",
+          "station_code": "1149A",
+          "longitude": 121.54494853304
+        },
+        {
+          "latitude": 31.211251735395,
+          "station_name": "浦东张江",
+          "station_code": "1150A",
+          "longitude": 121.6210951962
+        }
+      ]
+    },
+    {
+      "city": "南京",
+      "areaid": "101190101",
+      "stations": [
+        {
+          "latitude": 32.108827038048,
+          "station_name": "迈皋桥",
+          "station_code": "1151A",
+          "longitude": 118.81750705551
+        },
+        {
+          "latitude": 32.066489236172,
+          "station_name": "草场门",
+          "station_code": "1152A",
+          "longitude": 118.76205375807
+        },
+        {
+          "latitude": 32.074573172775,
+          "station_name": "山西路",
+          "station_code": "1153A",
+          "longitude": 118.77852868112
+        },
+        {
+          "latitude": 32.018458783345,
+          "station_name": "中华门",
+          "station_code": "1154A",
+          "longitude": 118.78807587208
+        },
+        {
+          "latitude": 32.037980106346,
+          "station_name": "瑞金路",
+          "station_code": "1155A",
+          "longitude": 118.81531159684
+        },
+        {
+          "latitude": 32.078554062753,
+          "station_name": "玄武湖",
+          "station_code": "1156A",
+          "longitude": 118.80039801859
+        },
+        {
+          "latitude": 32.064499504102,
+          "station_name": "浦口",
+          "station_code": "1157A",
+          "longitude": 118.63463361301
+        },
+        {
+          "latitude": 32.017336646441,
+          "station_name": "奥体中心",
+          "station_code": "1158A",
+          "longitude": 118.73089926536
+        },
+        {
+          "latitude": 32.105180027486,
+          "station_name": "仙林大学城",
+          "station_code": "1159A",
+          "longitude": 118.91936995966
+        }
+      ]
+    },
+    {
+      "city": "苏州",
+      "areaid": "101190401",
+      "stations": [
+        {
+          "latitude": 31.255476397538,
+          "station_name": "上方山",
+          "station_code": "1160A",
+          "longitude": 120.59173580554
+        },
+        {
+          "latitude": 31.303445671431,
+          "station_name": "南门",
+          "station_code": "1161A",
+          "longitude": 120.62585264034
+        },
+        {
+          "latitude": 31.308740106071,
+          "station_name": "彩香",
+          "station_code": "1162A",
+          "longitude": 120.5936807268
+        },
+        {
+          "latitude": 31.341519338465,
+          "station_name": "轧钢厂",
+          "station_code": "1163A",
+          "longitude": 120.5573245062
+        },
+        {
+          "latitude": 31.269119435481,
+          "station_name": "吴中区",
+          "station_code": "1164A",
+          "longitude": 120.63859690061
+        },
+        {
+          "latitude": 31.303863745233,
+          "station_name": "苏州新区",
+          "station_code": "1165A",
+          "longitude": 120.57905002496
+        },
+        {
+          "latitude": 31.316487997243,
+          "station_name": "苏州工业园区",
+          "station_code": "1166A",
+          "longitude": 120.65063149953
+        },
+        {
+          "latitude": 31.450775031111,
+          "station_name": "相城区",
+          "station_code": "1167A",
+          "longitude": 120.64685298258
+        }
+      ]
+    },
+    {
+      "city": "南通",
+      "areaid": "101190501",
+      "stations": [
+        {
+          "latitude": 31.965063577064,
+          "station_name": "南郊",
+          "station_code": "1168A",
+          "longitude": 120.89555126292
+        },
+        {
+          "latitude": 31.957382010463,
+          "station_name": "虹桥",
+          "station_code": "1169A",
+          "longitude": 120.88912083276
+        },
+        {
+          "latitude": 32.024343632617,
+          "station_name": "城中",
+          "station_code": "1170A",
+          "longitude": 120.87337713039
+        },
+        {
+          "latitude": 31.931073403999,
+          "station_name": "星湖花园",
+          "station_code": "1171A",
+          "longitude": 120.9477217927
+        },
+        {
+          "latitude": 32.048624451706,
+          "station_name": "紫琅学院",
+          "station_code": "1172A",
+          "longitude": 120.81564662849
+        }
+      ]
+    },
+    {
+      "city": "连云港",
+      "areaid": "101191001",
+      "stations": [
+        {
+          "latitude": 34.701385918654,
+          "station_name": "市环境监测站",
+          "station_code": "1173A",
+          "longitude": 119.35495156415
+        },
+        {
+          "latitude": 34.595233793957,
+          "station_name": "洪门派出所",
+          "station_code": "1174A",
+          "longitude": 119.15263160397
+        },
+        {
+          "latitude": 34.756374661114,
+          "station_name": "墟沟核电专家村",
+          "station_code": "1175A",
+          "longitude": 119.37843344985
+        },
+        {
+          "latitude": 34.704021938842,
+          "station_name": "开发区恒瑞医药公司",
+          "station_code": "1176A",
+          "longitude": 119.35386281788
+        }
+      ]
+    },
+    {
+      "city": "徐州",
+      "areaid": "101190801",
+      "stations": [
+        {
+          "latitude": 34.275289032455,
+          "station_name": "黄河新村",
+          "station_code": "1177A",
+          "longitude": 117.17931850037
+        },
+        {
+          "latitude": 34.243200061057,
+          "station_name": "淮塔",
+          "station_code": "1178A",
+          "longitude": 117.20722597799
+        },
+        {
+          "latitude": 34.205099628181,
+          "station_name": "铜山兽医院",
+          "station_code": "1179A",
+          "longitude": 117.19896911306
+        },
+        {
+          "latitude": 34.212658265946,
+          "station_name": "新城区",
+          "station_code": "1180A",
+          "longitude": 117.29096700577
+        },
+        {
+          "latitude": 34.295852348702,
+          "station_name": "桃园路",
+          "station_code": "1181A",
+          "longitude": 117.25709379143
+        },
+        {
+          "latitude": 34.282714245255,
+          "station_name": "农科院",
+          "station_code": "1182A",
+          "longitude": 117.30594813659
+        },
+        {
+          "latitude": 34.185141937618,
+          "station_name": "铜山区环保局",
+          "station_code": "1183A",
+          "longitude": 117.17754434699
+        }
+      ]
+    },
+    {
+      "city": "扬州",
+      "areaid": "101190601",
+      "stations": [
+        {
+          "latitude": 32.275775250564,
+          "station_name": "城东财政所",
+          "station_code": "1184A",
+          "longitude": 119.20474760661
+        },
+        {
+          "latitude": 32.381127268485,
+          "station_name": "市监测站",
+          "station_code": "1185A",
+          "longitude": 119.42317696933
+        },
+        {
+          "latitude": 32.381708909146,
+          "station_name": "邗江监测站",
+          "station_code": "1186A",
+          "longitude": 119.40102834868
+        },
+        {
+          "latitude": 32.50383944002,
+          "station_name": "第四医院",
+          "station_code": "1187A",
+          "longitude": 119.9226545956
+        }
+      ]
+    },
+    {
+      "city": "无锡",
+      "areaid": "101190201",
+      "stations": [
+        {
+          "latitude": 31.488315943841,
+          "station_name": "大学城",
+          "station_code": "1188A",
+          "longitude": 120.28413201417
+        },
+        {
+          "latitude": 31.626679918693,
+          "station_name": "市北高中",
+          "station_code": "1189A",
+          "longitude": 120.28597003707
+        },
+        {
+          "latitude": 31.349802866479,
+          "station_name": "曹张",
+          "station_code": "1190A",
+          "longitude": 105.92351381942
+        },
+        {
+          "latitude": 31.511066427307,
+          "station_name": "漆塘",
+          "station_code": "1191A",
+          "longitude": 120.25443115943
+        },
+        {
+          "latitude": 31.589738029462,
+          "station_name": "东亭",
+          "station_code": "1192A",
+          "longitude": 120.36549316116
+        },
+        {
+          "latitude": 31.54659360712,
+          "station_name": "旺庄",
+          "station_code": "1193A",
+          "longitude": 120.36650734808
+        },
+        {
+          "latitude": 31.567227267558,
+          "station_name": "育红小学",
+          "station_code": "1194A",
+          "longitude": 120.25591785505
+        },
+        {
+          "latitude": 31.693398052714,
+          "station_name": "堰桥",
+          "station_code": "1195A",
+          "longitude": 120.29145392272
+        }
+      ]
+    },
+    {
+      "city": "常州",
+      "areaid": "101191101",
+      "stations": [
+        {
+          "latitude": 31.754796668732,
+          "station_name": "市监测站",
+          "station_code": "1196A",
+          "longitude": 119.59061392995
+        },
+        {
+          "latitude": 37.897558282991,
+          "station_name": "城建学校",
+          "station_code": "1197A",
+          "longitude": 112.53415097436
+        },
+        {
+          "latitude": 31.812513527625,
+          "station_name": "常工院",
+          "station_code": "1198A",
+          "longitude": 119.9734223315
+        },
+        {
+          "latitude": 31.772483539935,
+          "station_name": "潞城",
+          "station_code": "1199A",
+          "longitude": 120.08322221398
+        },
+        {
+          "latitude": 31.700634936115,
+          "station_name": "武进监测站",
+          "station_code": "1200A",
+          "longitude": 119.97392628089
+        },
+        {
+          "latitude": 31.921427435846,
+          "station_name": "安家",
+          "station_code": "1201A",
+          "longitude": 119.9088781823
+        }
+      ]
+    },
+    {
+      "city": "镇江",
+      "areaid": "101190301",
+      "stations": [
+        {
+          "latitude": 32.205736633316,
+          "station_name": "环境监测站",
+          "station_code": "1202A",
+          "longitude": 119.45867530817
+        },
+        {
+          "latitude": 32.19056092872,
+          "station_name": "新区办事处",
+          "station_code": "1203A",
+          "longitude": 119.68272887186
+        },
+        {
+          "latitude": 32.115988960678,
+          "station_name": "职教中心",
+          "station_code": "1204A",
+          "longitude": 119.50306776986
+        },
+        {
+          "latitude": 32.136830008072,
+          "station_name": "丹徒区监测站",
+          "station_code": "1205A",
+          "longitude": 119.44215906306
+        }
+      ]
+    },
+    {
+      "city": "泰州",
+      "areaid": "101191201",
+      "stations": [
+        {
+          "latitude": 32.492059868706,
+          "station_name": "公园路",
+          "station_code": "1206A",
+          "longitude": 119.9146012867
+        },
+        {
+          "latitude": 32.472915609892,
+          "station_name": "莲花",
+          "station_code": "1207A",
+          "longitude": 119.92722607234
+        },
+        {
+          "latitude": 32.325113507942,
+          "station_name": "高港区政府",
+          "station_code": "1208A",
+          "longitude": 119.88795035883
+        },
+        {
+          "latitude": 32.461443989286,
+          "station_name": "留学生创业园",
+          "station_code": "1209A",
+          "longitude": 119.89512781986
+        }
+      ]
+    },
+    {
+      "city": "淮安",
+      "areaid": "101190901",
+      "stations": [
+        {
+          "latitude": 33.603819664089,
+          "station_name": "钵池山",
+          "station_code": "1210A",
+          "longitude": 119.06875771681
+        },
+        {
+          "latitude": 33.560925066367,
+          "station_name": "北京南路",
+          "station_code": "1211A",
+          "longitude": 119.03741700537
+        },
+        {
+          "latitude": 33.613014227227,
+          "station_name": "市监测站",
+          "station_code": "1212A",
+          "longitude": 119.00590507689
+        },
+        {
+          "latitude": 33.525789952454,
+          "station_name": "楚州区监测站",
+          "station_code": "1213A",
+          "longitude": 119.15706833489
+        },
+        {
+          "latitude": 33.429719188362,
+          "station_name": "淮阴区监测站",
+          "station_code": "1214A",
+          "longitude": 118.88389812083
+        }
+      ]
+    },
+    {
+      "city": "盐城",
+      "areaid": "101190701",
+      "stations": [
+        {
+          "latitude": 33.402665643576,
+          "station_name": "盐城电厂",
+          "station_code": "1215A",
+          "longitude": 120.16609502948
+        },
+        {
+          "latitude": 33.393887899763,
+          "station_name": "市监测站",
+          "station_code": "1216A",
+          "longitude": 120.16641877879
+        },
+        {
+          "latitude": 33.376493886873,
+          "station_name": "文峰中学",
+          "station_code": "1217A",
+          "longitude": 120.14170998743
+        },
+        {
+          "latitude": 33.385730183389,
+          "station_name": "开发区管委会",
+          "station_code": "1218A",
+          "longitude": 120.22383846699
+        }
+      ]
+    },
+    {
+      "city": "宿迁",
+      "areaid": "101191301",
+      "stations": [
+        {
+          "latitude": 33.96402365629,
+          "station_name": "市监测站",
+          "station_code": "1219A",
+          "longitude": 118.27774824237
+        },
+        {
+          "latitude": 33.93576210122,
+          "station_name": "宿迁学院",
+          "station_code": "1220A",
+          "longitude": 118.30290735428
+        },
+        {
+          "latitude": 33.955482118172,
+          "station_name": "宿迁中学",
+          "station_code": "1221A",
+          "longitude": 118.30164254012
+        },
+        {
+          "latitude": 33.95770172575,
+          "station_name": "宿豫区环保局",
+          "station_code": "1222A",
+          "longitude": 118.33773735382
+        }
+      ]
+    },
+    {
+      "city": "杭州",
+      "areaid": "101210101",
+      "stations": [
+        {
+          "latitude": 30.214507407198,
+          "station_name": "滨江",
+          "station_code": "1223A",
+          "longitude": 120.21819261686
+        },
+        {
+          "latitude": 30.274642047377,
+          "station_name": "西溪",
+          "station_code": "1224A",
+          "longitude": 120.07400299436
+        },
+        {
+          "latitude": 29.601865012541,
+          "station_name": "千岛湖",
+          "station_code": "1225A",
+          "longitude": 119.02142697122
+        },
+        {
+          "latitude": 30.31431013799,
+          "station_name": "下沙",
+          "station_code": "1226A",
+          "longitude": 120.32647795625
+        },
+        {
+          "latitude": 30.2492709433,
+          "station_name": "卧龙桥",
+          "station_code": "1227A",
+          "longitude": 120.13846970963
+        },
+        {
+          "latitude": 30.27526505489,
+          "station_name": "浙江农大",
+          "station_code": "1228A",
+          "longitude": 120.20207297363
+        },
+        {
+          "latitude": 30.292043117179,
+          "station_name": "朝晖五区",
+          "station_code": "1229A",
+          "longitude": 120.16791885916
+        },
+        {
+          "latitude": 30.316077062625,
+          "station_name": "和睦小学",
+          "station_code": "1230A",
+          "longitude": 120.1311728638
+        },
+        {
+          "latitude": 30.42717113048,
+          "station_name": "临平镇",
+          "station_code": "1231A",
+          "longitude": 120.31333395003
+        },
+        {
+          "latitude": 30.261513593957,
+          "station_name": "城厢镇",
+          "station_code": "1232A",
+          "longitude": 120.30517464108
+        },
+        {
+          "latitude": 30.198901003388,
+          "station_name": "云栖",
+          "station_code": "1233A",
+          "longitude": 120.10095656136
+        }
+      ]
+    },
+    {
+      "city": "宁波",
+      "areaid": "101210401",
+      "stations": [
+        {
+          "latitude": 27.670582198172,
+          "station_name": "区环保大楼",
+          "station_code": "1234A",
+          "longitude": 120.56758682127
+        },
+        {
+          "latitude": 29.82300072387,
+          "station_name": "万里学院",
+          "station_code": "1235A",
+          "longitude": 121.56952525624
+        },
+        {
+          "latitude": 29.959607068082,
+          "station_name": "龙赛医院",
+          "station_code": "1236A",
+          "longitude": 121.72234409124
+        },
+        {
+          "latitude": 29.893984699518,
+          "station_name": "三江中学",
+          "station_code": "1237A",
+          "longitude": 121.56465823699
+        },
+        {
+          "latitude": 29.876584054708,
+          "station_name": "市政管理站",
+          "station_code": "1238A",
+          "longitude": 121.55522513083
+        },
+        {
+          "latitude": 29.777019935235,
+          "station_name": "钱湖水厂",
+          "station_code": "1239A",
+          "longitude": 121.64401544402
+        },
+        {
+          "latitude": 29.866810635889,
+          "station_name": "太古小学",
+          "station_code": "1240A",
+          "longitude": 121.5961279451
+        },
+        {
+          "latitude": 29.870901123696,
+          "station_name": "市环境监测中心",
+          "station_code": "1241A",
+          "longitude": 121.53514261286
+        }
+      ]
+    },
+    {
+      "city": "温州",
+      "areaid": "101210701",
+      "stations": [
+        {
+          "latitude": 27.97315596272,
+          "station_name": "瓯海",
+          "station_code": "1242A",
+          "longitude": 120.62148802642
+        },
+        {
+          "latitude": 28.005252817565,
+          "station_name": "南浦",
+          "station_code": "1243A",
+          "longitude": 120.68027825932
+        },
+        {
+          "latitude": 27.973907032884,
+          "station_name": "龙湾",
+          "station_code": "1244A",
+          "longitude": 120.81310261029
+        },
+        {
+          "latitude": 28.014670797452,
+          "station_name": "市站",
+          "station_code": "1245A",
+          "longitude": 120.66009962265
+        }
+      ]
+    },
+    {
+      "city": "绍兴",
+      "areaid": "101210501",
+      "stations": [
+        {
+          "latitude": 30.08467381758,
+          "station_name": "袍江站",
+          "station_code": "1246A",
+          "longitude": 120.62411980901
+        },
+        {
+          "latitude": 30.269074381718,
+          "station_name": "城东开发委",
+          "station_code": "1247A",
+          "longitude": 120.20272559258
+        },
+        {
+          "latitude": 30.000220318082,
+          "station_name": "市环保站",
+          "station_code": "1248A",
+          "longitude": 120.56132915217
+        }
+      ]
+    },
+    {
+      "city": "湖州",
+      "areaid": "101210201",
+      "stations": [
+        {
+          "latitude": 36.686367847542,
+          "station_name": "城北水厂",
+          "station_code": "1249A",
+          "longitude": 101.7126636128
+        },
+        {
+          "latitude": 36.631635686769,
+          "station_name": "城西水厂",
+          "station_code": "1250A",
+          "longitude": 101.72760342157
+        },
+        {
+          "latitude": 30.870186157334,
+          "station_name": "吉山新村",
+          "station_code": "1251A",
+          "longitude": 120.11539053429
+        }
+      ]
+    },
+    {
+      "city": "嘉兴",
+      "areaid": "101210301",
+      "stations": [
+        {
+          "latitude": 30.781952837688,
+          "station_name": "清河小学",
+          "station_code": "1252A",
+          "longitude": 120.7542833791
+        },
+        {
+          "latitude": 30.751670333751,
+          "station_name": "嘉兴学院",
+          "station_code": "1253A",
+          "longitude": 120.73722096424
+        },
+        {
+          "latitude": 30.760099837408,
+          "station_name": "监测站",
+          "station_code": "1254A",
+          "longitude": 120.77391000703
+        }
+      ]
+    },
+    {
+      "city": "台州",
+      "areaid": "101210601",
+      "stations": [
+        {
+          "latitude": 28.648868781403,
+          "station_name": "黄岩环保大楼",
+          "station_code": "1255A",
+          "longitude": 121.28367546
+        },
+        {
+          "latitude": 28.65481013494,
+          "station_name": "台州环保大楼",
+          "station_code": "1256A",
+          "longitude": 121.44326931516
+        },
+        {
+          "latitude": 28.579909961869,
+          "station_name": "路桥田洋王",
+          "station_code": "1257A",
+          "longitude": 121.38784835674
+        }
+      ]
+    },
+    {
+      "city": "舟山",
+      "areaid": "101211101",
+      "stations": [
+        {
+          "latitude": 30.024008430332,
+          "station_name": "定海檀枫",
+          "station_code": "1258A",
+          "longitude": 122.13203699739
+        },
+        {
+          "latitude": 29.964998754951,
+          "station_name": "普陀东港",
+          "station_code": "1259A",
+          "longitude": 122.32200703592
+        },
+        {
+          "latitude": 29.988518015202,
+          "station_name": "临城新区",
+          "station_code": "1260A",
+          "longitude": 122.20196916558
+        }
+      ]
+    },
+    {
+      "city": "金华",
+      "areaid": "101210901",
+      "stations": [
+        {
+          "latitude": 29.110744852178,
+          "station_name": "四中",
+          "station_code": "1261A",
+          "longitude": 119.65463614703
+        },
+        {
+          "latitude": 29.080390058686,
+          "station_name": "十五中",
+          "station_code": "1262A",
+          "longitude": 119.65920995936
+        },
+        {
+          "latitude": 29.086523069769,
+          "station_name": "监测站",
+          "station_code": "1263A",
+          "longitude": 119.66771817017
+        }
+      ]
+    },
+    {
+      "city": "衢州",
+      "areaid": "101211001",
+      "stations": [
+        {
+          "latitude": 28.946973698384,
+          "station_name": "环保大楼",
+          "station_code": "1264A",
+          "longitude": 118.89820056548
+        },
+        {
+          "latitude": 28.96913815582,
+          "station_name": "实验学校",
+          "station_code": "1265A",
+          "longitude": 118.88279229039
+        },
+        {
+          "latitude": 28.988486033148,
+          "station_name": "衢州学院",
+          "station_code": "1266A",
+          "longitude": 118.8749260087
+        }
+      ]
+    },
+    {
+      "city": "丽水",
+      "areaid": "101210801",
+      "stations": [
+        {
+          "latitude": 28.458421237511,
+          "station_name": "监测站大楼",
+          "station_code": "1267A",
+          "longitude": 119.93068453185
+        },
+        {
+          "latitude": 28.459947531853,
+          "station_name": "莲都小学",
+          "station_code": "1268A",
+          "longitude": 119.94125489278
+        },
+        {
+          "latitude": 28.418703958344,
+          "station_name": "余庄前",
+          "station_code": "1269A",
+          "longitude": 119.88513595098
+        }
+      ]
+    },
+    {
+      "city": "合肥",
+      "areaid": "101220101",
+      "stations": [
+        {
+          "latitude": 31.779960980224,
+          "station_name": "明珠广场",
+          "station_code": "1270A",
+          "longitude": 117.22520897633
+        },
+        {
+          "latitude": 31.878736940666,
+          "station_name": "三里街",
+          "station_code": "1271A",
+          "longitude": 117.32295036497
+        },
+        {
+          "latitude": 31.868914471353,
+          "station_name": "琥珀山庄",
+          "station_code": "1272A",
+          "longitude": 117.2744041386
+        },
+        {
+          "latitude": 31.895256358192,
+          "station_name": "董铺水库",
+          "station_code": "1273A",
+          "longitude": 117.20821070049
+        },
+        {
+          "latitude": 31.866567133345,
+          "station_name": "长江中路",
+          "station_code": "1274A",
+          "longitude": 117.27904478487
+        },
+        {
+          "latitude": 31.88481709652,
+          "station_name": "庐阳区",
+          "station_code": "1275A",
+          "longitude": 117.27143883212
+        },
+        {
+          "latitude": 31.863720316605,
+          "station_name": "瑶海区",
+          "station_code": "1276A",
+          "longitude": 117.31601634474
+        },
+        {
+          "latitude": 31.799212295094,
+          "station_name": "包河区",
+          "station_code": "1277A",
+          "longitude": 117.31647627716
+        },
+        {
+          "latitude": 31.740475969597,
+          "station_name": "滨湖新区",
+          "station_code": "1278A",
+          "longitude": 117.30591804335
+        },
+        {
+          "latitude": 31.837523474203,
+          "station_name": "高新区",
+          "station_code": "1279A",
+          "longitude": 117.14224453367
+        }
+      ]
+    },
+    {
+      "city": "福州",
+      "areaid": "101230101",
+      "stations": [
+        {
+          "latitude": 25.5446134093,
+          "station_name": "鼓山",
+          "station_code": "1280A",
+          "longitude": 119.34321788107
+        },
+        {
+          "latitude": 26.034168820639,
+          "station_name": "快安",
+          "station_code": "1281A",
+          "longitude": 119.42814548057
+        },
+        {
+          "latitude": 26.042134377844,
+          "station_name": "师大",
+          "station_code": "1282A",
+          "longitude": 119.31569290195
+        },
+        {
+          "latitude": 26.114992715384,
+          "station_name": "五四北路",
+          "station_code": "1283A",
+          "longitude": 119.31245163601
+        },
+        {
+          "latitude": 26.08340099725,
+          "station_name": "杨桥西路",
+          "station_code": "1284A",
+          "longitude": 119.27199195585
+        },
+        {
+          "latitude": 26.08144853832,
+          "station_name": "紫阳",
+          "station_code": "1285A",
+          "longitude": 119.33305535084
+        }
+      ]
+    },
+    {
+      "city": "厦门",
+      "areaid": "101230201",
+      "stations": [
+        {
+          "latitude": 24.822878319866,
+          "station_name": "溪东",
+          "station_code": "1286A",
+          "longitude": 118.16645922272
+        },
+        {
+          "latitude": 24.484753830437,
+          "station_name": "洪文",
+          "station_code": "1287A",
+          "longitude": 118.15677719611
+        },
+        {
+          "latitude": 24.452265001262,
+          "station_name": "鼓浪屿",
+          "station_code": "1288A",
+          "longitude": 118.07348603976
+        },
+        {
+          "latitude": 24.514966639381,
+          "station_name": "湖里",
+          "station_code": "1289A",
+          "longitude": 118.10051461526
+        }
+      ]
+    },
+    {
+      "city": "南昌",
+      "areaid": "101240101",
+      "stations": [
+        {
+          "latitude": 29.704908184911,
+          "station_name": "省外办",
+          "station_code": "1290A",
+          "longitude": 116.03841030081
+        },
+        {
+          "latitude": 28.686337000469,
+          "station_name": "省林业公司",
+          "station_code": "1291A",
+          "longitude": 115.92524401847
+        },
+        {
+          "latitude": 28.744832552039,
+          "station_name": "林科所",
+          "station_code": "1292A",
+          "longitude": 115.8224432834
+        },
+        {
+          "latitude": 28.689820954187,
+          "station_name": "京东镇政府",
+          "station_code": "1293A",
+          "longitude": 115.97443298241
+        },
+        {
+          "latitude": 28.652518821617,
+          "station_name": "建工学校",
+          "station_code": "1294A",
+          "longitude": 115.91788375227
+        },
+        {
+          "latitude": 28.572956685596,
+          "station_name": "象湖",
+          "station_code": "1295A",
+          "longitude": 115.89786959535
+        },
+        {
+          "latitude": 28.669882648524,
+          "station_name": "武术学校",
+          "station_code": "1296A",
+          "longitude": 115.9512221155
+        },
+        {
+          "latitude": 28.645094191006,
+          "station_name": "石化",
+          "station_code": "1297A",
+          "longitude": 115.91236995305
+        },
+        {
+          "latitude": 28.686947770263,
+          "station_name": "省站",
+          "station_code": "1298A",
+          "longitude": 115.94353666271
+        }
+      ]
+    },
+    {
+      "city": "济南",
+      "areaid": "101120101",
+      "stations": [
+        {
+          "latitude": 36.618383309963,
+          "station_name": "科干所",
+          "station_code": "1299A",
+          "longitude": 117.01130346519
+        },
+        {
+          "latitude": 36.807037673812,
+          "station_name": "农科所",
+          "station_code": "1300A",
+          "longitude": 117.21397791169
+        },
+        {
+          "latitude": 36.795604107238,
+          "station_name": "开发区",
+          "station_code": "1301A",
+          "longitude": 117.21195663447
+        },
+        {
+          "latitude": 36.693503921425,
+          "station_name": "济南化工厂",
+          "station_code": "1302A",
+          "longitude": 117.00152497553
+        },
+        {
+          "latitude": 36.688542295948,
+          "station_name": "省种子仓库",
+          "station_code": "1303A",
+          "longitude": 117.06497588692
+        },
+        {
+          "latitude": 36.669482976926,
+          "station_name": "机床二厂",
+          "station_code": "1304A",
+          "longitude": 117.00062379544
+        },
+        {
+          "latitude": 36.643036271861,
+          "station_name": "市监测站",
+          "station_code": "1305A",
+          "longitude": 116.99834497403
+        },
+        {
+          "latitude": 36.556676340273,
+          "station_name": "长清党校",
+          "station_code": "1306A",
+          "longitude": 116.77446029178
+        }
+      ]
+    },
+    {
+      "city": "青岛",
+      "areaid": "101120201",
+      "stations": [
+        {
+          "latitude": 36.242341879107,
+          "station_name": "仰口",
+          "station_code": "1307A",
+          "longitude": 120.6729968813
+        },
+        {
+          "latitude": 36.192897252321,
+          "station_name": "李沧区子站",
+          "station_code": "1308A",
+          "longitude": 120.43114552866
+        },
+        {
+          "latitude": 36.100057507009,
+          "station_name": "市北区子站",
+          "station_code": "1309A",
+          "longitude": 120.37849501736
+        },
+        {
+          "latitude": 36.081454920634,
+          "station_name": "市南区东部子站",
+          "station_code": "1310A",
+          "longitude": 120.41868542363
+        },
+        {
+          "latitude": 36.109944887956,
+          "station_name": "四方区子站",
+          "station_code": "1311A",
+          "longitude": 120.37301377489
+        },
+        {
+          "latitude": 36.072517005321,
+          "station_name": "市南区西部子站",
+          "station_code": "1312A",
+          "longitude": 120.37618412944
+        },
+        {
+          "latitude": 36.113481711102,
+          "station_name": "崂山区子站",
+          "station_code": "1313A",
+          "longitude": 120.47561643363
+        },
+        {
+          "latitude": 35.878063895058,
+          "station_name": "黄岛区子站",
+          "station_code": "1314A",
+          "longitude": 120.05303304037
+        },
+        {
+          "latitude": 36.284246909785,
+          "station_name": "城阳区子站",
+          "station_code": "1315A",
+          "longitude": 120.34632618533
+        }
+      ]
+    },
+    {
+      "city": "郑州",
+      "areaid": "101180101",
+      "stations": [
+        {
+          "latitude": 34.746603466496,
+          "station_name": "烟厂",
+          "station_code": "1316A",
+          "longitude": 113.68760588139
+        },
+        {
+          "latitude": 34.782451269165,
+          "station_name": "郑纺机",
+          "station_code": "1317A",
+          "longitude": 113.65667632438
+        },
+        {
+          "latitude": 34.73506391574,
+          "station_name": "银行学校",
+          "station_code": "1318A",
+          "longitude": 113.64571609885
+        },
+        {
+          "latitude": 34.761174005706,
+          "station_name": "供水公司",
+          "station_code": "1319A",
+          "longitude": 113.6882859885
+        },
+        {
+          "latitude": 34.727398162582,
+          "station_name": "经开区管委",
+          "station_code": "1320A",
+          "longitude": 113.7493311479
+        },
+        {
+          "latitude": 34.811512965079,
+          "station_name": "四十七中",
+          "station_code": "1321A",
+          "longitude": 113.69478998988
+        },
+        {
+          "latitude": 34.818058875187,
+          "station_name": "市监测站",
+          "station_code": "1322A",
+          "longitude": 113.31391707738
+        },
+        {
+          "latitude": 34.832674162144,
+          "station_name": "河医大",
+          "station_code": "1323A",
+          "longitude": 113.54526128859
+        },
+        {
+          "latitude": 34.915140038266,
+          "station_name": "岗李水库",
+          "station_code": "1324A",
+          "longitude": 113.62926543005
+        }
+      ]
+    },
+    {
+      "city": "武汉",
+      "areaid": "101200101",
+      "stations": [
+        {
+          "latitude": 30.580218248298,
+          "station_name": "东湖梨园",
+          "station_code": "1325A",
+          "longitude": 114.3813259047
+        },
+        {
+          "latitude": 30.564366004033,
+          "station_name": "汉阳月湖",
+          "station_code": "1326A",
+          "longitude": 114.26585591783
+        },
+        {
+          "latitude": 30.616248984591,
+          "station_name": "汉口花桥",
+          "station_code": "1327A",
+          "longitude": 114.29428818553
+        },
+        {
+          "latitude": 30.54143574876,
+          "station_name": "武昌紫阳",
+          "station_code": "1328A",
+          "longitude": 114.30936714182
+        },
+        {
+          "latitude": 30.624160660341,
+          "station_name": "青山钢花",
+          "station_code": "1329A",
+          "longitude": 114.38660255126
+        },
+        {
+          "latitude": 30.505231940709,
+          "station_name": "沌口新区",
+          "station_code": "1330A",
+          "longitude": 114.22848200692
+        },
+        {
+          "latitude": 30.592406908412,
+          "station_name": "汉口江滩",
+          "station_code": "1331A",
+          "longitude": 114.31179598026
+        },
+        {
+          "latitude": 30.520473212234,
+          "station_name": "东湖高新",
+          "station_code": "1332A",
+          "longitude": 114.39208760471
+        },
+        {
+          "latitude": 30.639344306389,
+          "station_name": "吴家山",
+          "station_code": "1333A",
+          "longitude": 114.14167506244
+        },
+        {
+          "latitude": 30.299953754313,
+          "station_name": "沉湖七壕",
+          "station_code": "1334A",
+          "longitude": 113.87846346327
+        }
+      ]
+    },
+    {
+      "city": "长沙",
+      "areaid": "101250101",
+      "stations": [
+        {
+          "latitude": 28.255427995283,
+          "station_name": "经开区环保局",
+          "station_code": "1335A",
+          "longitude": 113.08431376781
+        },
+        {
+          "latitude": 28.222295138891,
+          "station_name": "高开区环保局",
+          "station_code": "1336A",
+          "longitude": 112.89953313294
+        },
+        {
+          "latitude": 28.203941706943,
+          "station_name": "马坡岭",
+          "station_code": "1337A",
+          "longitude": 113.08394995408
+        },
+        {
+          "latitude": 28.193058983745,
+          "station_name": "湖南师范大学",
+          "station_code": "1338A",
+          "longitude": 112.95656295653
+        },
+        {
+          "latitude": 28.146586655982,
+          "station_name": "雨花区环保局",
+          "station_code": "1339A",
+          "longitude": 113.00775837566
+        },
+        {
+          "latitude": 28.178758316969,
+          "station_name": "伍家岭",
+          "station_code": "1340A",
+          "longitude": 112.63145280783
+        },
+        {
+          "latitude": 28.201398170257,
+          "station_name": "火车新站",
+          "station_code": "1341A",
+          "longitude": 113.01871590627
+        },
+        {
+          "latitude": 28.118350283612,
+          "station_name": "天心区环保局",
+          "station_code": "1342A",
+          "longitude": 112.99651248899
+        },
+        {
+          "latitude": 28.135039289771,
+          "station_name": "湖南中医药大学",
+          "station_code": "1343A",
+          "longitude": 112.90085193526
+        },
+        {
+          "latitude": 28.372398753208,
+          "station_name": "沙坪",
+          "station_code": "1344A",
+          "longitude": 113.02430875637
+        }
+      ]
+    },
+    {
+      "city": "广州",
+      "areaid": "101280101",
+      "stations": [
+        {
+          "latitude": 23.142473886299,
+          "station_name": "广雅中学",
+          "station_code": "1345A",
+          "longitude": 113.24765265864
+        },
+        {
+          "latitude": 23.109812029798,
+          "station_name": "市五中",
+          "station_code": "1346A",
+          "longitude": 113.27436098822
+        },
+        {
+          "latitude": 23.166129265425,
+          "station_name": "天河职幼",
+          "station_code": "1347A",
+          "longitude": 113.38564289133
+        },
+        {
+          "latitude": 23.094793979557,
+          "station_name": "广东商学院",
+          "station_code": "1348A",
+          "longitude": 113.360995997
+        },
+        {
+          "latitude": 23.107218421943,
+          "station_name": "市八十六中",
+          "station_code": "1349A",
+          "longitude": 113.44470738066
+        },
+        {
+          "latitude": 22.912225420937,
+          "station_name": "番禺中学",
+          "station_code": "1350A",
+          "longitude": 113.3657537823
+        },
+        {
+          "latitude": 23.394018211393,
+          "station_name": "花都师范",
+          "station_code": "1351A",
+          "longitude": 113.22734915751
+        },
+        {
+          "latitude": 23.120049102076,
+          "station_name": "市监测站",
+          "station_code": "1352A",
+          "longitude": 113.30764967515
+        },
+        {
+          "latitude": 23.285180324932,
+          "station_name": "九龙镇镇龙",
+          "station_code": "1353A",
+          "longitude": 113.57977506998
+        },
+        {
+          "latitude": 23.155141993876,
+          "station_name": "麓湖",
+          "station_code": "1354A",
+          "longitude": 113.29004100072
+        },
+        {
+          "latitude": 23.308276396209,
+          "station_name": "帽峰山森林公园",
+          "station_code": "1355A",
+          "longitude": 113.46925744143
+        }
+      ]
+    },
+    {
+      "city": "深圳",
+      "areaid": "101280601",
+      "stations": [
+        {
+          "latitude": 22.494064796603,
+          "station_name": "荔园",
+          "station_code": "1356A",
+          "longitude": 113.92443872455
+        },
+        {
+          "latitude": 22.564980147854,
+          "station_name": "洪湖",
+          "station_code": "1357A",
+          "longitude": 114.12444105644
+        },
+        {
+          "latitude": 22.540558019088,
+          "station_name": "华侨城",
+          "station_code": "1358A",
+          "longitude": 113.99065596773
+        },
+        {
+          "latitude": 22.513604994823,
+          "station_name": "南油",
+          "station_code": "1359A",
+          "longitude": 113.9352579161
+        },
+        {
+          "latitude": 22.594279592447,
+          "station_name": "盐田",
+          "station_code": "1360A",
+          "longitude": 114.27654753518
+        },
+        {
+          "latitude": 22.726288144916,
+          "station_name": "龙岗",
+          "station_code": "1361A",
+          "longitude": 114.27906548552
+        },
+        {
+          "latitude": 22.587589329288,
+          "station_name": "西乡",
+          "station_code": "1362A",
+          "longitude": 113.88989079295
+        },
+        {
+          "latitude": 22.537457794923,
+          "station_name": "南澳",
+          "station_code": "1363A",
+          "longitude": 114.4990371489
+        },
+        {
+          "latitude": 22.631343695683,
+          "station_name": "葵涌",
+          "station_code": "1364A",
+          "longitude": 114.43068059114
+        },
+        {
+          "latitude": 22.604719750079,
+          "station_name": "梅沙",
+          "station_code": "1365A",
+          "longitude": 114.31977938613
+        },
+        {
+          "latitude": 22.713652898296,
+          "station_name": "观澜",
+          "station_code": "1366A",
+          "longitude": 114.06523733352
+        }
+      ]
+    },
+    {
+      "city": "珠海",
+      "areaid": "101280701",
+      "stations": [
+        {
+          "latitude": 22.055044983717,
+          "station_name": "吉大",
+          "station_code": "1367A",
+          "longitude": 113.4109590308
+        },
+        {
+          "latitude": 22.244957295854,
+          "station_name": "前山",
+          "station_code": "1368A",
+          "longitude": 113.53542123544
+        },
+        {
+          "latitude": 22.363121425013,
+          "station_name": "唐家",
+          "station_code": "1369A",
+          "longitude": 113.60407603063
+        },
+        {
+          "latitude": 22.209026015928,
+          "station_name": "斗门",
+          "station_code": "1370A",
+          "longitude": 113.29657500551
+        }
+      ]
+    },
+    {
+      "city": "佛山",
+      "areaid": "101280800",
+      "stations": [
+        {
+          "latitude": 22.99680670072,
+          "station_name": "湾梁",
+          "station_code": "1371A",
+          "longitude": 113.14155109997
+        },
+        {
+          "latitude": 22.980166888172,
+          "station_name": "华材职中",
+          "station_code": "1372A",
+          "longitude": 113.01907702509
+        },
+        {
+          "latitude": 23.040556028035,
+          "station_name": "南海气象局",
+          "station_code": "1373A",
+          "longitude": 113.148383971
+        },
+        {
+          "latitude": 22.81346254935,
+          "station_name": "顺德苏岗",
+          "station_code": "1374A",
+          "longitude": 113.30832870429
+        },
+        {
+          "latitude": 22.768274999885,
+          "station_name": "容桂街道办",
+          "station_code": "1375A",
+          "longitude": 113.26512200588
+        },
+        {
+          "latitude": 22.873791534653,
+          "station_name": "高明孔堂",
+          "station_code": "1376A",
+          "longitude": 112.82484361117
+        },
+        {
+          "latitude": 23.161793901808,
+          "station_name": "三水监测站",
+          "station_code": "1377A",
+          "longitude": 112.89509110203
+        },
+        {
+          "latitude": 23.251891221374,
+          "station_name": "三水云东海",
+          "station_code": "1378A",
+          "longitude": 112.911880432
+        }
+      ]
+    },
+    {
+      "city": "中山",
+      "areaid": "101281701",
+      "stations": [
+        {
+          "latitude": 22.524581305616,
+          "station_name": "华柏园",
+          "station_code": "1379A",
+          "longitude": 113.3887432169
+        },
+        {
+          "latitude": 22.544188404719,
+          "station_name": "张溪",
+          "station_code": "1380A",
+          "longitude": 113.38676532783
+        },
+        {
+          "latitude": 22.517604677309,
+          "station_name": "紫马岭",
+          "station_code": "1381A",
+          "longitude": 113.41622058583
+        },
+        {
+          "latitude": 22.491168045323,
+          "station_name": "长江旅游区",
+          "station_code": "1382A",
+          "longitude": 113.4503076867
+        }
+      ]
+    },
+    {
+      "city": "江门",
+      "areaid": "101281101",
+      "stations": [
+        {
+          "latitude": 22.611320759436,
+          "station_name": "北街",
+          "station_code": "1383A",
+          "longitude": 113.12130868362
+        },
+        {
+          "latitude": 22.481643395286,
+          "station_name": "西区",
+          "station_code": "1384A",
+          "longitude": 112.74040289326
+        },
+        {
+          "latitude": 22.537767403248,
+          "station_name": "圭峰西",
+          "station_code": "1385A",
+          "longitude": 113.04229462929
+        },
+        {
+          "latitude": 30.575503891863,
+          "station_name": "东湖",
+          "station_code": "1386A",
+          "longitude": 114.37962702932
+        }
+      ]
+    },
+    {
+      "city": "东莞",
+      "areaid": "101281601",
+      "stations": [
+        {
+          "latitude": 23.054589930082,
+          "station_name": "实验中学",
+          "station_code": "1387A",
+          "longitude": 113.79377839155
+        },
+        {
+          "latitude": 23.029134703728,
+          "station_name": "南城元岭",
+          "station_code": "1388A",
+          "longitude": 113.76058600297
+        },
+        {
+          "latitude": 23.041402656677,
+          "station_name": "莞城二水厂",
+          "station_code": "1389A",
+          "longitude": 113.76407636903
+        },
+        {
+          "latitude": 23.05678794523,
+          "station_name": "东城石井",
+          "station_code": "1390A",
+          "longitude": 113.81435587586
+        },
+        {
+          "latitude": 22.996904008329,
+          "station_name": "南城西平",
+          "station_code": "1391A",
+          "longitude": 113.75443350853
+        }
+      ]
+    },
+    {
+      "city": "惠州",
+      "areaid": "101280301",
+      "stations": [
+        {
+          "latitude": 23.072448167832,
+          "station_name": "河南岸金山湖子站",
+          "station_code": "1392A",
+          "longitude": 114.44211691858
+        },
+        {
+          "latitude": 23.08710986448,
+          "station_name": "下埔横江三路子站",
+          "station_code": "1393A",
+          "longitude": 114.41703488129
+        },
+        {
+          "latitude": 23.112672160999,
+          "station_name": "江北云山西路子站",
+          "station_code": "1394A",
+          "longitude": 114.4205989084
+        },
+        {
+          "latitude": 22.788759454587,
+          "station_name": "惠阳区承修路船湖子站",
+          "station_code": "1395A",
+          "longitude": 114.47586625658
+        },
+        {
+          "latitude": 22.744400967108,
+          "station_name": "大亚湾管委会子站",
+          "station_code": "1396A",
+          "longitude": 114.54347901738
+        }
+      ]
+    },
+    {
+      "city": "肇庆",
+      "areaid": "101280901",
+      "stations": [
+        {
+          "latitude": 23.073178805742,
+          "station_name": "睦岗子站",
+          "station_code": "1397A",
+          "longitude": 112.42558723587
+        },
+        {
+          "latitude": 23.076223502748,
+          "station_name": "城中子站",
+          "station_code": "1398A",
+          "longitude": 112.49638898122
+        },
+        {
+          "latitude": 23.790758413403,
+          "station_name": "坑口子站",
+          "station_code": "1399A",
+          "longitude": 112.42076333528
+        },
+        {
+          "latitude": 23.084115451701,
+          "station_name": "七星岩子站",
+          "station_code": "1400A",
+          "longitude": 112.47756139605
+        }
+      ]
+    },
+    {
+      "city": "南宁",
+      "areaid": "101300101",
+      "stations": [
+        {
+          "latitude": 22.790970998805,
+          "station_name": "振宁花园",
+          "station_code": "1401A",
+          "longitude": 108.31110276412
+        },
+        {
+          "latitude": 22.863414013164,
+          "station_name": "北湖",
+          "station_code": "1402A",
+          "longitude": 108.32103200441
+        },
+        {
+          "latitude": 22.825569983841,
+          "station_name": "市监测站",
+          "station_code": "1403A",
+          "longitude": 108.3310700295
+        },
+        {
+          "latitude": 22.80830974721,
+          "station_name": "大自然花园",
+          "station_code": "1404A",
+          "longitude": 108.39361212519
+        },
+        {
+          "latitude": 22.814801729264,
+          "station_name": "仙葫",
+          "station_code": "1405A",
+          "longitude": 108.45706662978
+        },
+        {
+          "latitude": 22.849656528014,
+          "station_name": "区农职院",
+          "station_code": "1406A",
+          "longitude": 108.24844685313
+        },
+        {
+          "latitude": 22.738590978818,
+          "station_name": "沙井镇街道办",
+          "station_code": "1408A",
+          "longitude": 113.81844900492
+        },
+        {
+          "latitude": 22.739098868001,
+          "station_name": "英华嘉园",
+          "station_code": "1407A",
+          "longitude": 108.33868882802
+        }
+      ]
+    },
+    {
+      "city": "海口",
+      "areaid": "101310101",
+      "stations": [
+        {
+          "latitude": 19.967178016685,
+          "station_name": "东寨港",
+          "station_code": "1409A",
+          "longitude": 110.60714101465
+        },
+        {
+          "latitude": 20.062313953167,
+          "station_name": "海南大学",
+          "station_code": "1410A",
+          "longitude": 110.33523202162
+        },
+        {
+          "latitude": 20.013153706508,
+          "station_name": "秀英海南医院",
+          "station_code": "1411A",
+          "longitude": 110.28933139482
+        },
+        {
+          "latitude": 20.002236029612,
+          "station_name": "海南师范大学",
+          "station_code": "1412A",
+          "longitude": 110.35124395801
+        },
+        {
+          "latitude": 20.040525070164,
+          "station_name": "龙华路环保局宿舍",
+          "station_code": "1413A",
+          "longitude": 110.34208923673
+        }
+      ]
+    },
+    {
+      "city": "重庆",
+      "areaid": "101040100",
+      "stations": [
+        {
+          "latitude": 29.842463002022,
+          "station_name": "缙云山",
+          "station_code": "1414A",
+          "longitude": 106.40361703977
+        },
+        {
+          "latitude": 29.588079912138,
+          "station_name": "高家花园",
+          "station_code": "1415A",
+          "longitude": 106.47465908185
+        },
+        {
+          "latitude": 29.831380504672,
+          "station_name": "天生",
+          "station_code": "1416A",
+          "longitude": 106.44225720212
+        },
+        {
+          "latitude": 29.725263395892,
+          "station_name": "两路",
+          "station_code": "1417A",
+          "longitude": 106.63455476766
+        },
+        {
+          "latitude": 29.604305330383,
+          "station_name": "虎溪",
+          "station_code": "1418A",
+          "longitude": 106.31679626141
+        },
+        {
+          "latitude": 29.532224737821,
+          "station_name": "南坪",
+          "station_code": "1419A",
+          "longitude": 106.57797319852
+        },
+        {
+          "latitude": 29.608176005572,
+          "station_name": "唐家沱",
+          "station_code": "1420A",
+          "longitude": 106.65531703341
+        },
+        {
+          "latitude": 29.500098370544,
+          "station_name": "茶园",
+          "station_code": "1421A",
+          "longitude": 106.63212574956
+        },
+        {
+          "latitude": 29.493961240319,
+          "station_name": "白市驿",
+          "station_code": "1422A",
+          "longitude": 106.3740713224
+        },
+        {
+          "latitude": 29.564018008381,
+          "station_name": "解放碑",
+          "station_code": "1423A",
+          "longitude": 106.5840520319
+        },
+        {
+          "latitude": 28.805951334889,
+          "station_name": "杨家坪",
+          "station_code": "1424A",
+          "longitude": 106.38698626072
+        },
+        {
+          "latitude": 29.739797367136,
+          "station_name": "空港",
+          "station_code": "1425A",
+          "longitude": 106.64142500819
+        },
+        {
+          "latitude": 29.828527009741,
+          "station_name": "新山村",
+          "station_code": "1426A",
+          "longitude": 107.91482966141
+        },
+        {
+          "latitude": 29.683970678284,
+          "station_name": "礼嘉",
+          "station_code": "1427A",
+          "longitude": 106.50314524787
+        },
+        {
+          "latitude": 29.385210774549,
+          "station_name": "鱼新街",
+          "station_code": "1429A",
+          "longitude": 106.52953476882
+        },
+        {
+          "latitude": 29.737590397853,
+          "station_name": "蔡家",
+          "station_code": "1428A",
+          "longitude": 106.47791723593
+        },
+        {
+          "latitude": 29.428442121754,
+          "station_name": "南泉",
+          "station_code": "1430A",
+          "longitude": 106.58871154258
+        }
+      ]
+    },
+    {
+      "city": "成都",
+      "areaid": "101270101",
+      "stations": [
+        {
+          "latitude": 30.714194873623,
+          "station_name": "金泉两河",
+          "station_code": "1431A",
+          "longitude": 103.98698164533
+        },
+        {
+          "latitude": 30.677721897608,
+          "station_name": "十里店",
+          "station_code": "1432A",
+          "longitude": 104.19432852314
+        },
+        {
+          "latitude": 30.605818995013,
+          "station_name": "三瓦窑",
+          "station_code": "1433A",
+          "longitude": 104.08344258929
+        },
+        {
+          "latitude": 30.63248496795,
+          "station_name": "沙河铺",
+          "station_code": "1434A",
+          "longitude": 104.1262558299
+        },
+        {
+          "latitude": 30.894449534404,
+          "station_name": "梁家巷",
+          "station_code": "1435A",
+          "longitude": 104.21986734879
+        },
+        {
+          "latitude": 30.667223274634,
+          "station_name": "草堂寺",
+          "station_code": "1436A",
+          "longitude": 104.0292020043
+        },
+        {
+          "latitude": 37.31085880749,
+          "station_name": "人民公园",
+          "station_code": "1437A",
+          "longitude": 117.16599932458
+        },
+        {
+          "latitude": 36.367869862134,
+          "station_name": "灵岩寺",
+          "station_code": "1438A",
+          "longitude": 116.99016401592
+        }
+      ]
+    },
+    {
+      "city": "贵阳",
+      "areaid": "101260101",
+      "stations": [
+        {
+          "latitude": 26.629906741441,
+          "station_name": "马鞍山",
+          "station_code": "1439A",
+          "longitude": 106.70917709618
+        },
+        {
+          "latitude": 26.571720872904,
+          "station_name": "市环保站",
+          "station_code": "1440A",
+          "longitude": 106.70731661563
+        },
+        {
+          "latitude": 27.706169003934,
+          "station_name": "金阳新区",
+          "station_code": "1441A",
+          "longitude": 103.20105938361
+        },
+        {
+          "latitude": 26.63666646392,
+          "station_name": "乌当区",
+          "station_code": "1442A",
+          "longitude": 106.75728845283
+        },
+        {
+          "latitude": 26.416162655307,
+          "station_name": "花溪区",
+          "station_code": "1443A",
+          "longitude": 106.67681016053
+        },
+        {
+          "latitude": 26.516687664444,
+          "station_name": "小河区",
+          "station_code": "1444A",
+          "longitude": 106.7046757771
+        },
+        {
+          "latitude": 26.599255486644,
+          "station_name": "鸿边门",
+          "station_code": "1445A",
+          "longitude": 106.72143797825
+        },
+        {
+          "latitude": 26.57482925125,
+          "station_name": "冶金厅",
+          "station_code": "1446A",
+          "longitude": 106.70383208856
+        },
+        {
+          "latitude": 26.560400097554,
+          "station_name": "太慈桥",
+          "station_code": "1447A",
+          "longitude": 106.69514233021
+        },
+        {
+          "latitude": 26.388509633291,
+          "station_name": "桐木岭",
+          "station_code": "1552A",
+          "longitude": 106.68645436848
+        },
+        {
+          "latitude": 27.706169003934,
+          "station_name": "金阳区",
+          "station_code": "1441A",
+          "longitude": 103.20105938361
+        }
+      ]
+    },
+    {
+      "city": "昆明",
+      "areaid": "101290101",
+      "stations": [
+        {
+          "latitude": 25.017759341802,
+          "station_name": "关上",
+          "station_code": "1449A",
+          "longitude": 102.74834769203
+        },
+        {
+          "latitude": 24.890270944289,
+          "station_name": "呈贡新区",
+          "station_code": "1450A",
+          "longitude": 102.82200335399
+        },
+        {
+          "latitude": 24.970702002427,
+          "station_name": "西山森林公园",
+          "station_code": "1451A",
+          "longitude": 102.63205602516
+        },
+        {
+          "latitude": 25.114730331062,
+          "station_name": "龙泉镇",
+          "station_code": "1452A",
+          "longitude": 102.75169298175
+        },
+        {
+          "latitude": 25.044063978014,
+          "station_name": "东风东路",
+          "station_code": "1453A",
+          "longitude": 102.73014901054
+        },
+        {
+          "latitude": 25.071185222188,
+          "station_name": "金鼎山",
+          "station_code": "1454A",
+          "longitude": 102.68598552694
+        },
+        {
+          "latitude": 25.043437080906,
+          "station_name": "碧鸡广场",
+          "station_code": "1455A",
+          "longitude": 102.67321521581
+        }
+      ]
+    },
+    {
+      "city": "拉萨",
+      "areaid": "101140101",
+      "stations": [
+        {
+          "latitude": 29.656210356103,
+          "station_name": "八廓街",
+          "station_code": "1456A",
+          "longitude": 91.139142251248
+        },
+        {
+          "latitude": 29.677514489581,
+          "station_name": "市环保局",
+          "station_code": "1457A",
+          "longitude": 91.130365806418
+        },
+        {
+          "latitude": 29.670067163932,
+          "station_name": "区监测站",
+          "station_code": "1458A",
+          "longitude": 91.111464560189
+        },
+        {
+          "latitude": 29.64945700372,
+          "station_name": "西藏大学",
+          "station_code": "1459A",
+          "longitude": 91.154527978865
+        },
+        {
+          "latitude": 29.662557062057,
+          "station_name": "区辐射站",
+          "station_code": "1460A",
+          "longitude": 91.111890895984
+        },
+        {
+          "latitude": 29.630024428595,
+          "station_name": "拉萨火车站",
+          "station_code": "1461A",
+          "longitude": 91.074426795211
+        }
+      ]
+    },
+    {
+      "city": "西安",
+      "areaid": "101110101",
+      "stations": [
+        {
+          "latitude": 34.273543187306,
+          "station_name": "高压开关厂",
+          "station_code": "1462A",
+          "longitude": 108.91191106139
+        },
+        {
+          "latitude": 34.265097582978,
+          "station_name": "兴庆小区",
+          "station_code": "1463A",
+          "longitude": 108.99428926988
+        },
+        {
+          "latitude": 34.282671740648,
+          "station_name": "纺织城",
+          "station_code": "1464A",
+          "longitude": 109.06938042407
+        },
+        {
+          "latitude": 34.229100570523,
+          "station_name": "小寨",
+          "station_code": "1465A",
+          "longitude": 108.94546816203
+        },
+        {
+          "latitude": 34.275963197808,
+          "station_name": "市人民体育场",
+          "station_code": "1466A",
+          "longitude": 108.96536832399
+        },
+        {
+          "latitude": 34.255158507353,
+          "station_name": "高新西区",
+          "station_code": "1467A",
+          "longitude": 108.91642953811
+        },
+        {
+          "latitude": 34.366337651505,
+          "station_name": "经开区",
+          "station_code": "1468A",
+          "longitude": 108.93549158103
+        },
+        {
+          "latitude": 34.164620016612,
+          "station_name": "长安区",
+          "station_code": "1469A",
+          "longitude": 108.91353968928
+        },
+        {
+          "latitude": 34.668310131404,
+          "station_name": "阎良区",
+          "station_code": "1470A",
+          "longitude": 109.23266451831
+        },
+        {
+          "latitude": 34.372884715509,
+          "station_name": "临潼区",
+          "station_code": "1471A",
+          "longitude": 109.22069639401
+        },
+        {
+          "latitude": 34.399487044505,
+          "station_name": "草滩",
+          "station_code": "1472A",
+          "longitude": 108.97238947985
+        },
+        {
+          "latitude": 34.195286499632,
+          "station_name": "曲江文化产业集团",
+          "station_code": "1473A",
+          "longitude": 108.96798832184
+        },
+        {
+          "latitude": 34.321727302917,
+          "station_name": "广运潭",
+          "station_code": "1474A",
+          "longitude": 109.06293148882
+        }
+      ]
+    },
+    {
+      "city": "兰州",
+      "areaid": "101160101",
+      "stations": [
+        {
+          "latitude": 36.080605369443,
+          "station_name": "职工医院",
+          "station_code": "1475A",
+          "longitude": 103.71958394248
+        },
+        {
+          "latitude": 36.091115088224,
+          "station_name": "兰炼宾馆",
+          "station_code": "1476A",
+          "longitude": 103.65594438693
+        },
+        {
+          "latitude": 35.949858898237,
+          "station_name": "榆中兰大校区",
+          "station_code": "1477A",
+          "longitude": 104.16545599591
+        },
+        {
+          "latitude": 36.077918101485,
+          "station_name": "生物制品所",
+          "station_code": "1478A",
+          "longitude": 103.85240470027
+        },
+        {
+          "latitude": 36.046197695558,
+          "station_name": "铁路设计院",
+          "station_code": "1479A",
+          "longitude": 103.84627286686
+        }
+      ]
+    },
+    {
+      "city": "西宁",
+      "areaid": "101150101",
+      "stations": [
+        {
+          "latitude": 36.623565726652,
+          "station_name": "市环境监测站",
+          "station_code": "1480A",
+          "longitude": 101.80939297045
+        },
+        {
+          "latitude": 36.697461125212,
+          "station_name": "省医药仓库",
+          "station_code": "1481A",
+          "longitude": 101.76214389724
+        },
+        {
+          "latitude": 36.584283729479,
+          "station_name": "四陆医院",
+          "station_code": "1482A",
+          "longitude": 101.85404683905
+        },
+        {
+          "latitude": 36.618258469196,
+          "station_name": "第五水厂",
+          "station_code": "1483A",
+          "longitude": 101.79812013461
+        }
+      ]
+    },
+    {
+      "city": "银川",
+      "areaid": "101170101",
+      "stations": [
+        {
+          "latitude": 38.587624015695,
+          "station_name": "贺兰山马莲口",
+          "station_code": "1484A",
+          "longitude": 105.94828170934
+        },
+        {
+          "latitude": 38.481842904595,
+          "station_name": "宁安大街",
+          "station_code": "1486A",
+          "longitude": 106.23542955714
+        },
+        {
+          "latitude": 38.492824083684,
+          "station_name": "宁化生活区",
+          "station_code": "1487A",
+          "longitude": 106.07838599127
+        },
+        {
+          "latitude": 38.512435724631,
+          "station_name": "贺兰山东路",
+          "station_code": "1488A",
+          "longitude": 106.30977682453
+        },
+        {
+          "latitude": 38.511219846955,
+          "station_name": "学院路",
+          "station_code": "1489A",
+          "longitude": 106.14932158417
+        },
+        {
+          "latitude": 38.480311987613,
+          "station_name": "银湖巷",
+          "station_code": "1485A",
+          "longitude": 106.2790189337
+        }
+      ]
+    },
+    {
+      "city": "乌鲁木齐",
+      "areaid": "101130101",
+      "stations": [
+        {
+          "latitude": 43.87026348151,
+          "station_name": "监测站",
+          "station_code": "1490A",
+          "longitude": 87.572148044505
+        },
+        {
+          "latitude": 43.840380347218,
+          "station_name": "收费所",
+          "station_code": "1491A",
+          "longitude": 87.564987741116
+        },
+        {
+          "latitude": 43.820136258817,
+          "station_name": "新疆农科院农场",
+          "station_code": "1492A",
+          "longitude": 87.580146556766
+        },
+        {
+          "latitude": 43.843486691444,
+          "station_name": "铁路局",
+          "station_code": "1493A",
+          "longitude": 87.581855223677
+        },
+        {
+          "latitude": 43.838777143292,
+          "station_name": "三十一中学",
+          "station_code": "1494A",
+          "longitude": 87.651875982246
+        },
+        {
+          "latitude": 43.879255351986,
+          "station_name": "七十四中学",
+          "station_code": "1495A",
+          "longitude": 87.429638163486
+        },
+        {
+          "latitude": 43.969446014018,
+          "station_name": "米东区环保局",
+          "station_code": "1496A",
+          "longitude": 87.654378930889
+        }
+      ]
+    },
+    {
+      "city": "北京",
+      "areaid": "101010100",
+      "stations": [
+        {
+          "latitude": 39.885652976288,
+          "station_name": "万寿西宫",
+          "station_code": "1001A",
+          "longitude": 116.37472781442
+        },
+        {
+          "latitude": 40.300231183479,
+          "station_name": "定陵",
+          "station_code": "1002A",
+          "longitude": 116.23246676402
+        },
+        {
+          "latitude": 39.938650236319,
+          "station_name": "东四",
+          "station_code": "1003A",
+          "longitude": 116.43501219889
+        },
+        {
+          "latitude": 39.887977077342,
+          "station_name": "天坛",
+          "station_code": "1004A",
+          "longitude": 116.41731297525
+        },
+        {
+          "latitude": 39.947009082025,
+          "station_name": "农展馆",
+          "station_code": "1005A",
+          "longitude": 116.4703069817
+        },
+        {
+          "latitude": 39.937363791014,
+          "station_name": "官园",
+          "station_code": "1006A",
+          "longitude": 116.36936591866
+        },
+        {
+          "latitude": 39.97274649594,
+          "station_name": "海淀区万柳",
+          "station_code": "1007A",
+          "longitude": 116.30566150545
+        },
+        {
+          "latitude": 40.17700804048,
+          "station_name": "顺义新城",
+          "station_code": "1008A",
+          "longitude": 116.66426299893
+        },
+        {
+          "latitude": 40.308424711972,
+          "station_name": "怀柔镇",
+          "station_code": "1009A",
+          "longitude": 116.64698355347
+        },
+        {
+          "latitude": 40.229940182679,
+          "station_name": "昌平镇",
+          "station_code": "1010A",
+          "longitude": 116.23303179819
+        },
+        {
+          "latitude": 39.98966406196,
+          "station_name": "奥体中心",
+          "station_code": "1011A",
+          "longitude": 116.40345796022
+        },
+        {
+          "latitude": 39.913450060127,
+          "station_name": "古城",
+          "station_code": "1012A",
+          "longitude": 116.19563983134
+        }
+      ]
+    },
+    {
+      "city": "湘潭",
+      "areaid": "101250201",
+      "stations": [
+        {
+          "latitude": 27.477407307564,
+          "station_name": "板塘",
+          "station_code": "1508A",
+          "longitude": 112.62067853154
+        },
+        {
+          "latitude": 27.859378302643,
+          "station_name": "市监测站",
+          "station_code": "1511A",
+          "longitude": 112.88094458686
+        },
+        {
+          "latitude": 27.875507562858,
+          "station_name": "江麓",
+          "station_code": "1512A",
+          "longitude": 112.90065161313
+        },
+        {
+          "latitude": 27.877488125893,
+          "station_name": "岳塘",
+          "station_code": "1513A",
+          "longitude": 112.97580025885
+        },
+        {
+          "latitude": 27.914984985288,
+          "station_name": "科大",
+          "station_code": "1514A",
+          "longitude": 112.92135000937
+        },
+        {
+          "latitude": 27.971610019256,
+          "station_name": "昭山",
+          "station_code": "1562A",
+          "longitude": 113.01812841447
+        },
+        {
+          "latitude": 27.927332779842,
+          "station_name": "韶山",
+          "station_code": "1564A",
+          "longitude": 112.53309503972
+        }
+      ]
+    },
+    {
+      "city": "株洲",
+      "areaid": "101250301",
+      "stations": [
+        {
+          "latitude": 27.833168571985,
+          "station_name": "天台山庄",
+          "station_code": "1515A",
+          "longitude": 113.13883731903
+        },
+        {
+          "latitude": 27.885660654664,
+          "station_name": "株冶医院",
+          "station_code": "1518A",
+          "longitude": 113.09032163506
+        },
+        {
+          "latitude": 27.867181772919,
+          "station_name": "市四中",
+          "station_code": "1519A",
+          "longitude": 113.18317408576
+        },
+        {
+          "latitude": 27.841823609402,
+          "station_name": "火车站",
+          "station_code": "1520A",
+          "longitude": 113.16316343223
+        },
+        {
+          "latitude": 27.858648544552,
+          "station_name": "市监测站",
+          "station_code": "1524A",
+          "longitude": 113.1455835934
+        },
+        {
+          "latitude": 27.849595059471,
+          "station_name": "大京风景区",
+          "station_code": "1559A",
+          "longitude": 113.2732768233
+        },
+        {
+          "latitude": 27.999253847213,
+          "station_name": "云田中学",
+          "station_code": "2031A",
+          "longitude": 113.19544404072
+        }
+      ]
+    },
+    {
+      "city": "河源",
+      "areaid": "101281201",
+      "stations": [
+        {
+          "latitude": 23.761101808039,
+          "station_name": "市自来水厂",
+          "station_code": "1696A",
+          "longitude": 114.6935454443
+        },
+        {
+          "latitude": 23.762404920915,
+          "station_name": "市三小",
+          "station_code": "1697A",
+          "longitude": 114.70603189088
+        },
+        {
+          "latitude": 23.728776914805,
+          "station_name": "河源中学",
+          "station_code": "1698A",
+          "longitude": 114.70154305825
+        }
+      ]
+    },
+    {
+      "city": "清远",
+      "areaid": "101281301",
+      "stations": [
+        {
+          "latitude": 23.694704157087,
+          "station_name": "环保局",
+          "station_code": "1702A",
+          "longitude": 113.05419627899
+        },
+        {
+          "latitude": 23.71377730863,
+          "station_name": "凤城街办",
+          "station_code": "1703A",
+          "longitude": 113.03830794944
+        },
+        {
+          "latitude": 23.740803046959,
+          "station_name": "扶贫区",
+          "station_code": "1704A",
+          "longitude": 113.01638210856
+        }
+      ]
+    },
+    {
+      "city": "营口",
+      "areaid": "101070801",
+      "stations": [
+        {
+          "latitude": 40.668651066474,
+          "station_name": "三水厂",
+          "station_code": "1598A",
+          "longitude": 122.23339137079
+        },
+        {
+          "latitude": 40.673271308913,
+          "station_name": "西炮台",
+          "station_code": "1599A",
+          "longitude": 122.17920252819
+        },
+        {
+          "latitude": 40.640787274045,
+          "station_name": "营口大学",
+          "station_code": "1596A",
+          "longitude": 122.24916256131
+        },
+        {
+          "latitude": 40.716179194847,
+          "station_name": "植物园",
+          "station_code": "1597A",
+          "longitude": 122.2835281369
+        }
+      ]
+    },
+    {
+      "city": "丹东",
+      "areaid": "101070601",
+      "stations": [
+        {
+          "latitude": 40.123467785254,
+          "station_name": "轴承厂",
+          "station_code": "1600A",
+          "longitude": 124.37921021368
+        },
+        {
+          "latitude": 40.162242285839,
+          "station_name": "财专",
+          "station_code": "1601A",
+          "longitude": 124.43397001926
+        },
+        {
+          "latitude": 40.157220183982,
+          "station_name": "元宝山水厂",
+          "station_code": "1602A",
+          "longitude": 124.4038794796
+        },
+        {
+          "latitude": 40.126066272572,
+          "station_name": "实验小学",
+          "station_code": "1603A",
+          "longitude": 124.37968901052
+        }
+      ]
+    },
+    {
+      "city": "盘锦",
+      "areaid": "101071301",
+      "stations": [
+        {
+          "latitude": 41.25177902586,
+          "station_name": "开发区",
+          "station_code": "1604A",
+          "longitude": 122.01948740174
+        },
+        {
+          "latitude": 41.138079717544,
+          "station_name": "兴隆台",
+          "station_code": "1605A",
+          "longitude": 122.07029556138
+        },
+        {
+          "latitude": 41.166075154333,
+          "station_name": "鼎翔",
+          "station_code": "1606A",
+          "longitude": 121.93843329557
+        }
+      ]
+    },
+    {
+      "city": "玉溪",
+      "areaid": "101290701",
+      "stations": [
+        {
+          "latitude": 24.367191738133,
+          "station_name": "东风水库",
+          "station_code": "1715A",
+          "longitude": 102.59848428216
+        },
+        {
+          "latitude": 24.362493647051,
+          "station_name": "市监测站",
+          "station_code": "1716A",
+          "longitude": 102.55183707365
+        },
+        {
+          "latitude": 24.344026275686,
+          "station_name": "大营街镇",
+          "station_code": "1717A",
+          "longitude": 102.50445954276
+        }
+      ]
+    },
+    {
+      "city": "包头",
+      "areaid": "101080201",
+      "stations": [
+        {
+          "latitude": 40.660185473629,
+          "station_name": "市环境监测站",
+          "station_code": "1585A",
+          "longitude": 109.88775470977
+        },
+        {
+          "latitude": 40.664545334803,
+          "station_name": "包百大楼",
+          "station_code": "1586A",
+          "longitude": 109.82222853299
+        },
+        {
+          "latitude": 40.589124487996,
+          "station_name": "东河城环局",
+          "station_code": "1587A",
+          "longitude": 110.07014136051
+        },
+        {
+          "latitude": 40.684901985428,
+          "station_name": "青山宾馆",
+          "station_code": "1588A",
+          "longitude": 109.86480399213
+        },
+        {
+          "latitude": 40.637848071886,
+          "station_name": "惠龙物流",
+          "station_code": "1589A",
+          "longitude": 109.88276911419
+        },
+        {
+          "latitude": 40.562561945547,
+          "station_name": "东河鸿龙湾",
+          "station_code": "1590A",
+          "longitude": 110.05126230243
+        }
+      ]
+    },
+    {
+      "city": "鄂尔多斯",
+      "areaid": "101080701",
+      "stations": [
+        {
+          "latitude": 39.801740657406,
+          "station_name": "综合楼",
+          "station_code": "1591A",
+          "longitude": 110.1102282439
+        },
+        {
+          "latitude": 39.828178846869,
+          "station_name": "巴音孟克林场办事处",
+          "station_code": "1592A",
+          "longitude": 109.96338664388
+        },
+        {
+          "latitude": 39.606200580831,
+          "station_name": "康泽苑",
+          "station_code": "1593A",
+          "longitude": 109.78682828911
+        },
+        {
+          "latitude": 39.841202410534,
+          "station_name": "华泰汽车城",
+          "station_code": "1594A",
+          "longitude": 109.97249195836
+        },
+        {
+          "latitude": 39.79784679786,
+          "station_name": "奥林花园",
+          "station_code": "1595A",
+          "longitude": 109.98768760453
+        }
+      ]
+    },
+    {
+      "city": "葫芦岛",
+      "areaid": "101071401",
+      "stations": [
+        {
+          "latitude": 40.728540477706,
+          "station_name": "葫芦岛市西山坡",
+          "station_code": "1607A",
+          "longitude": 120.92448712069
+        },
+        {
+          "latitude": 40.760612972594,
+          "station_name": "化工医院",
+          "station_code": "1608A",
+          "longitude": 120.84952604113
+        },
+        {
+          "latitude": 40.723144952236,
+          "station_name": "新区公园",
+          "station_code": "1609A",
+          "longitude": 120.8561952409
+        },
+        {
+          "latitude": 40.7811349964,
+          "station_name": "连山区政府",
+          "station_code": "1610A",
+          "longitude": 120.87588798412
+        }
+      ]
+    },
+    {
+      "city": "泉州",
+      "areaid": "101230501",
+      "stations": [
+        {
+          "latitude": 24.949832045678,
+          "station_name": "清源山",
+          "station_code": "1614A",
+          "longitude": 118.60816798929
+        },
+        {
+          "latitude": 25.030908280215,
+          "station_name": "涂山街",
+          "station_code": "1611A",
+          "longitude": 118.07671940061
+        },
+        {
+          "latitude": 24.903644231688,
+          "station_name": "津头埔",
+          "station_code": "1612A",
+          "longitude": 118.60404090429
+        },
+        {
+          "latitude": 24.937899577954,
+          "station_name": "万安",
+          "station_code": "1613A",
+          "longitude": 118.67492888698
+        }
+      ]
+    },
+    {
+      "city": "莱芜",
+      "areaid": "101121601",
+      "stations": [
+        {
+          "latitude": 36.145782845278,
+          "station_name": "植物油厂",
+          "station_code": "1615A",
+          "longitude": 117.5529561908
+        },
+        {
+          "latitude": 36.249376538394,
+          "station_name": "技术学院",
+          "station_code": "1616A",
+          "longitude": 117.73645925563
+        },
+        {
+          "latitude": 36.211617576947,
+          "station_name": "日升国际",
+          "station_code": "1617A",
+          "longitude": 117.72593291167
+        }
+      ]
+    },
+    {
+      "city": "德州",
+      "areaid": "101120401",
+      "stations": [
+        {
+          "latitude": 37.455451261194,
+          "station_name": "黑马集团",
+          "station_code": "1623A",
+          "longitude": 116.28597612834
+        },
+        {
+          "latitude": 37.455588767615,
+          "station_name": "监理站",
+          "station_code": "1624A",
+          "longitude": 116.32522191248
+        },
+        {
+          "latitude": 37.408702018457,
+          "station_name": "儿童乐园",
+          "station_code": "1622A",
+          "longitude": 116.33881894996
+        }
+      ]
+    },
+    {
+      "city": "聊城",
+      "areaid": "101121701",
+      "stations": [
+        {
+          "latitude": 36.440201313342,
+          "station_name": "区政府",
+          "station_code": "1625A",
+          "longitude": 115.9950553974
+        },
+        {
+          "latitude": 36.491219872325,
+          "station_name": "党校",
+          "station_code": "1627A",
+          "longitude": 115.99538327891
+        },
+        {
+          "latitude": 36.462983934181,
+          "station_name": "二轻机",
+          "station_code": "1626A",
+          "longitude": 116.00674594531
+        }
+      ]
+    },
+    {
+      "city": "滨州",
+      "areaid": "101121101",
+      "stations": [
+        {
+          "latitude": 37.3904763338,
+          "station_name": "市环保局",
+          "station_code": "1628A",
+          "longitude": 117.96059905665
+        },
+        {
+          "latitude": 37.405313941826,
+          "station_name": "第二水厂",
+          "station_code": "1629A",
+          "longitude": 117.96829241453
+        },
+        {
+          "latitude": 37.548145398199,
+          "station_name": "北中新校",
+          "station_code": "1630A",
+          "longitude": 117.96897306061
+        }
+      ]
+    },
+    {
+      "city": "临沂",
+      "areaid": "101120901",
+      "stations": [
+        {
+          "latitude": 35.790932576444,
+          "station_name": "沂河小区",
+          "station_code": "1618A",
+          "longitude": 118.62904525443
+        },
+        {
+          "latitude": 35.066074552786,
+          "station_name": "鲁南制药厂",
+          "station_code": "1619A",
+          "longitude": 118.30658322043
+        },
+        {
+          "latitude": 36.740881367556,
+          "station_name": "新光毛纺厂",
+          "station_code": "1620A",
+          "longitude": 119.40492340137
+        },
+        {
+          "latitude": 35.247092899087,
+          "station_name": "河东保险公司",
+          "station_code": "1621A",
+          "longitude": 118.59177815204
+        }
+      ]
+    },
+    {
+      "city": "枣庄",
+      "areaid": "101121401",
+      "stations": [
+        {
+          "latitude": 34.788012610787,
+          "station_name": "薛城环保局",
+          "station_code": "1638A",
+          "longitude": 117.29745735291
+        },
+        {
+          "latitude": 34.778585493217,
+          "station_name": "峄城区政府",
+          "station_code": "1639A",
+          "longitude": 117.59699912182
+        },
+        {
+          "latitude": 34.572325972223,
+          "station_name": "台儿庄区环保局",
+          "station_code": "1640A",
+          "longitude": 117.73759920532
+        },
+        {
+          "latitude": 35.105221050412,
+          "station_name": "山亭区环保局",
+          "station_code": "1641A",
+          "longitude": 117.46429873697
+        },
+        {
+          "latitude": 34.870023141459,
+          "station_name": "市中区政府",
+          "station_code": "1637A",
+          "longitude": 117.56257605468
+        }
+      ]
+    },
+    {
+      "city": "烟台",
+      "areaid": "101120501",
+      "stations": [
+        {
+          "latitude": 37.444140068056,
+          "station_name": "开发区",
+          "station_code": "1642A",
+          "longitude": 121.42404469615
+        },
+        {
+          "latitude": 37.546321450282,
+          "station_name": "轴承厂",
+          "station_code": "1643A",
+          "longitude": 121.3786973357
+        },
+        {
+          "latitude": 30.912040570791,
+          "station_name": "西郊化工站",
+          "station_code": "1644A",
+          "longitude": 113.72867973304
+        },
+        {
+          "latitude": 37.489292168609,
+          "station_name": "莱山环保局",
+          "station_code": "1645A",
+          "longitude": 121.45907591612
+        },
+        {
+          "latitude": 37.503279676569,
+          "station_name": "福山环保局",
+          "station_code": "1646A",
+          "longitude": 121.2734276079
+        },
+        {
+          "latitude": 37.393691058632,
+          "station_name": "牟平环保局",
+          "station_code": "1647A",
+          "longitude": 121.61147075097
+        }
+      ]
+    },
+    {
+      "city": "淄博",
+      "areaid": "101120301",
+      "stations": [
+        {
+          "latitude": 36.816330851095,
+          "station_name": "人民公园",
+          "station_code": "1631A",
+          "longitude": 118.05522835568
+        },
+        {
+          "latitude": 36.181080870507,
+          "station_name": "东风化工厂",
+          "station_code": "1632A",
+          "longitude": 118.20324799355
+        },
+        {
+          "latitude": 36.50476572271,
+          "station_name": "双山",
+          "station_code": "1633A",
+          "longitude": 117.85978222926
+        },
+        {
+          "latitude": 36.823944839034,
+          "station_name": "气象站",
+          "station_code": "1634A",
+          "longitude": 118.03914958536
+        },
+        {
+          "latitude": 24.611216069248,
+          "station_name": "莆田园",
+          "station_code": "1635A",
+          "longitude": 118.00501881076
+        },
+        {
+          "latitude": 36.839911364262,
+          "station_name": "三金集团",
+          "station_code": "1636A",
+          "longitude": 117.88126161231
+        }
+      ]
+    },
+    {
+      "city": "潍坊",
+      "areaid": "101120601",
+      "stations": [
+        {
+          "latitude": 36.646383891731,
+          "station_name": "共达公司",
+          "station_code": "1651A",
+          "longitude": 119.18886403807
+        },
+        {
+          "latitude": 36.793815932902,
+          "station_name": "寒亭监测站",
+          "station_code": "1652A",
+          "longitude": 119.29763967262
+        },
+        {
+          "latitude": 36.70864218987,
+          "station_name": "仲裁委",
+          "station_code": "1648A",
+          "longitude": 119.1347346633
+        },
+        {
+          "latitude": 36.737709472054,
+          "station_name": "刘家园",
+          "station_code": "1649A",
+          "longitude": 119.10911049863
+        },
+        {
+          "latitude": 36.708451958394,
+          "station_name": "环保局",
+          "station_code": "1650A",
+          "longitude": 119.1551136221
+        }
+      ]
+    },
+    {
+      "city": "济宁",
+      "areaid": "101120701",
+      "stations": [
+        {
+          "latitude": 35.42364764665,
+          "station_name": "火炬城",
+          "station_code": "1653A",
+          "longitude": 116.629951681
+        },
+        {
+          "latitude": 35.419949578585,
+          "station_name": "监测站",
+          "station_code": "1654A",
+          "longitude": 116.59747254698
+        },
+        {
+          "latitude": 35.417713300414,
+          "station_name": "电化厂",
+          "station_code": "1655A",
+          "longitude": 116.55707395158
+        }
+      ]
+    },
+    {
+      "city": "威海",
+      "areaid": "101121301",
+      "stations": [
+        {
+          "latitude": 37.513408269289,
+          "station_name": "市监测站",
+          "station_code": "1664A",
+          "longitude": 122.1182947197
+        },
+        {
+          "latitude": 37.432804440789,
+          "station_name": "华夏技校",
+          "station_code": "1662A",
+          "longitude": 122.12955497927
+        },
+        {
+          "latitude": 37.529794788768,
+          "station_name": "山大分校",
+          "station_code": "1663A",
+          "longitude": 122.06718652601
+        }
+      ]
+    },
+    {
+      "city": "东营",
+      "areaid": "101121201",
+      "stations": [
+        {
+          "latitude": 37.484281805034,
+          "station_name": "西城阳光环保公司",
+          "station_code": "1665A",
+          "longitude": 118.44655996974
+        },
+        {
+          "latitude": 37.438964118883,
+          "station_name": "市环保局",
+          "station_code": "1666A",
+          "longitude": 118.6733856144
+        },
+        {
+          "latitude": 37.435587308657,
+          "station_name": "耿井村",
+          "station_code": "1667A",
+          "longitude": 118.53598349851
+        },
+        {
+          "latitude": 37.380989755604,
+          "station_name": "广南水库",
+          "station_code": "1668A",
+          "longitude": 118.82644878855
+        }
+      ]
+    },
+    {
+      "city": "汕头",
+      "areaid": "101280501",
+      "stations": [
+        {
+          "latitude": 23.371562541264,
+          "station_name": "金平子站",
+          "station_code": "1674A",
+          "longitude": 116.71015956773
+        },
+        {
+          "latitude": 23.377808952499,
+          "station_name": "龙湖子站",
+          "station_code": "1675A",
+          "longitude": 116.72301611618
+        },
+        {
+          "latitude": 23.259419936054,
+          "station_name": "潮阳子站",
+          "station_code": "1678A",
+          "longitude": 116.41217456236
+        },
+        {
+          "latitude": 23.247297996212,
+          "station_name": "潮南子站",
+          "station_code": "1679A",
+          "longitude": 116.44617398862
+        },
+        {
+          "latitude": 23.291939538118,
+          "station_name": "濠江子站",
+          "station_code": "1676A",
+          "longitude": 116.73315798539
+        },
+        {
+          "latitude": 23.473091121812,
+          "station_name": "澄海子站",
+          "station_code": "1677A",
+          "longitude": 116.76245442298
+        }
+      ]
+    },
+    {
+      "city": "泰安",
+      "areaid": "101120801",
+      "stations": [
+        {
+          "latitude": 36.200222738035,
+          "station_name": "监测站",
+          "station_code": "1656A",
+          "longitude": 117.15606226902
+        },
+        {
+          "latitude": 36.209402954932,
+          "station_name": "人口学校",
+          "station_code": "1657A",
+          "longitude": 116.78483661872
+        },
+        {
+          "latitude": 36.182377582225,
+          "station_name": "电力学校",
+          "station_code": "1658A",
+          "longitude": 117.12081994726
+        }
+      ]
+    },
+    {
+      "city": "日照",
+      "areaid": "101121501",
+      "stations": [
+        {
+          "latitude": 35.404594403637,
+          "station_name": "监测站",
+          "station_code": "1659A",
+          "longitude": 119.53898202415
+        },
+        {
+          "latitude": 35.422769655939,
+          "station_name": "市政府广场",
+          "station_code": "1660A",
+          "longitude": 119.53332539435
+        },
+        {
+          "latitude": 35.40036365526,
+          "station_name": "港务局",
+          "station_code": "1661A",
+          "longitude": 119.55406098044
+        }
+      ]
+    },
+    {
+      "city": "大同",
+      "areaid": "101100201",
+      "stations": [
+        {
+          "latitude": 40.099733337351,
+          "station_name": "红旗广场",
+          "station_code": "1722A",
+          "longitude": 113.2975517476
+        },
+        {
+          "latitude": 40.083119087117,
+          "station_name": "云冈宾馆",
+          "station_code": "1723A",
+          "longitude": 113.31193900865
+        },
+        {
+          "latitude": 40.038558516082,
+          "station_name": "大同大学",
+          "station_code": "1724A",
+          "longitude": 113.18017016661
+        },
+        {
+          "latitude": 40.150227133795,
+          "station_name": "安家小村",
+          "station_code": "1725A",
+          "longitude": 113.28463591098
+        },
+        {
+          "latitude": 40.098027943139,
+          "station_name": "教育学院",
+          "station_code": "1726A",
+          "longitude": 113.35849908154
+        },
+        {
+          "latitude": 40.117323426552,
+          "station_name": "果树场",
+          "station_code": "1721A",
+          "longitude": 113.39391432711
+        }
+      ]
+    },
+    {
+      "city": "阳泉",
+      "areaid": "101100301",
+      "stations": [
+        {
+          "latitude": 37.853244589651,
+          "station_name": "市中心",
+          "station_code": "1738A",
+          "longitude": 113.60729467389
+        },
+        {
+          "latitude": 37.884106398888,
+          "station_name": "赛鱼",
+          "station_code": "1739A",
+          "longitude": 113.50851700001
+        },
+        {
+          "latitude": 37.840068661619,
+          "station_name": "南庄",
+          "station_code": "1740A",
+          "longitude": 113.59634792294
+        },
+        {
+          "latitude": 37.856051718603,
+          "station_name": "白羊墅",
+          "station_code": "1741A",
+          "longitude": 113.65819715561
+        },
+        {
+          "latitude": 37.874733723539,
+          "station_name": "平坦",
+          "station_code": "1742A",
+          "longitude": 113.48434898857
+        },
+        {
+          "latitude": 37.852156183834,
+          "station_name": "大阳泉",
+          "station_code": "1743A",
+          "longitude": 113.57962866079
+        }
+      ]
+    },
+    {
+      "city": "临汾",
+      "areaid": "101100701",
+      "stations": [
+        {
+          "latitude": 36.099745443585,
+          "station_name": "工商学校",
+          "station_code": "1735A",
+          "longitude": 111.53878759641
+        },
+        {
+          "latitude": 36.090706772049,
+          "station_name": "市委",
+          "station_code": "1736A",
+          "longitude": 111.5146111409
+        },
+        {
+          "latitude": 36.087265894139,
+          "station_name": "南机场",
+          "station_code": "1737A",
+          "longitude": 111.52867680857
+        },
+        {
+          "latitude": 36.103818485164,
+          "station_name": "市监测站",
+          "station_code": "1732A",
+          "longitude": 111.52629989219
+        },
+        {
+          "latitude": 36.084034874265,
+          "station_name": "临钢医院",
+          "station_code": "1733A",
+          "longitude": 111.5670263691
+        },
+        {
+          "latitude": 36.08428571879,
+          "station_name": "技工学校",
+          "station_code": "1734A",
+          "longitude": 111.54303083232
+        }
+      ]
+    },
+    {
+      "city": "柳州",
+      "areaid": "101300301",
+      "stations": [
+        {
+          "latitude": 24.322366296626,
+          "station_name": "柳东小学",
+          "station_code": "1870A",
+          "longitude": 109.43830909395
+        },
+        {
+          "latitude": 24.333916172306,
+          "station_name": "环保监测站",
+          "station_code": "1871A",
+          "longitude": 109.42178027257
+        },
+        {
+          "latitude": 39.084493739615,
+          "station_name": "河西水厂",
+          "station_code": "1872A",
+          "longitude": 117.23616545062
+        },
+        {
+          "latitude": 24.301538270237,
+          "station_name": "市四中",
+          "station_code": "1873A",
+          "longitude": 109.43190687058
+        },
+        {
+          "latitude": 24.368003044143,
+          "station_name": "市九中",
+          "station_code": "1874A",
+          "longitude": 109.40704698424
+        },
+        {
+          "latitude": 24.329298325358,
+          "station_name": "古亭山",
+          "station_code": "1875A",
+          "longitude": 109.52346755796
+        }
+      ]
+    },
+    {
+      "city": "长治",
+      "areaid": "101100501",
+      "stations": [
+        {
+          "latitude": 36.161397398412,
+          "station_name": "清华站",
+          "station_code": "1727A",
+          "longitude": 113.12534837795
+        },
+        {
+          "latitude": 36.204746363958,
+          "station_name": "监测站",
+          "station_code": "1728A",
+          "longitude": 113.1160796617
+        },
+        {
+          "latitude": 36.202324039854,
+          "station_name": "澳瑞特",
+          "station_code": "1729A",
+          "longitude": 113.16156086967
+        },
+        {
+          "latitude": 36.218066702757,
+          "station_name": "审计局",
+          "station_code": "1730A",
+          "longitude": 113.10146602766
+        },
+        {
+          "latitude": 36.190972984329,
+          "station_name": "长治八中",
+          "station_code": "1731A",
+          "longitude": 113.09936578938
+        }
+      ]
+    },
+    {
+      "city": "咸阳",
+      "areaid": "101110200",
+      "stations": [
+        {
+          "latitude": 34.349241637202,
+          "station_name": "气象站",
+          "station_code": "1918A",
+          "longitude": 108.70468455652
+        },
+        {
+          "latitude": 34.32341802667,
+          "station_name": "中华小区",
+          "station_code": "1919A",
+          "longitude": 108.68924600853
+        },
+        {
+          "latitude": 34.323228041836,
+          "station_name": "师范学院",
+          "station_code": "1920A",
+          "longitude": 108.73787200443
+        },
+        {
+          "latitude": 34.337185069602,
+          "station_name": "中医学院",
+          "station_code": "1921A",
+          "longitude": 108.7206914624
+        }
+      ]
+    },
+    {
+      "city": "铜川",
+      "areaid": "101111001",
+      "stations": [
+        {
+          "latitude": 35.104699103702,
+          "station_name": "党校",
+          "station_code": "1922A",
+          "longitude": 109.07707890229
+        },
+        {
+          "latitude": 35.07546618284,
+          "station_name": "王益区政府",
+          "station_code": "1923A",
+          "longitude": 109.0823465658
+        },
+        {
+          "latitude": 34.910884264873,
+          "station_name": "新区管委会",
+          "station_code": "1924A",
+          "longitude": 108.9454483993
+        },
+        {
+          "latitude": 34.877477113966,
+          "station_name": "新区兰芝公司",
+          "station_code": "1925A",
+          "longitude": 108.97025690257
+        }
+      ]
+    },
+    {
+      "city": "北海",
+      "areaid": "101301301",
+      "stations": [
+        {
+          "latitude": 21.605430736317,
+          "station_name": "牛尾岭水库",
+          "station_code": "1866A",
+          "longitude": 109.24554890107
+        },
+        {
+          "latitude": 21.412665297683,
+          "station_name": "海滩公园",
+          "station_code": "1867A",
+          "longitude": 109.15143433112
+        },
+        {
+          "latitude": 21.469716985427,
+          "station_name": "新市环保局",
+          "station_code": "1868A",
+          "longitude": 109.10929122644
+        },
+        {
+          "latitude": 22.685112952012,
+          "station_name": "北海工业园",
+          "station_code": "1869A",
+          "longitude": 113.18312611625
+        }
+      ]
+    },
+    {
+      "city": "渭南",
+      "areaid": "101110501",
+      "stations": [
+        {
+          "latitude": 34.501117437542,
+          "station_name": "日报社",
+          "station_code": "1939A",
+          "longitude": 109.51406051593
+        },
+        {
+          "latitude": 34.501592681929,
+          "station_name": "体育馆",
+          "station_code": "1940A",
+          "longitude": 109.51829872132
+        },
+        {
+          "latitude": 34.798980022248,
+          "station_name": "农科所",
+          "station_code": "1938A",
+          "longitude": 109.94099727735
+        },
+        {
+          "latitude": 34.511118561101,
+          "station_name": "高新一小",
+          "station_code": "1941A",
+          "longitude": 109.43712334391
+        }
+      ]
+    },
+    {
+      "city": "延安",
+      "areaid": "101110300",
+      "stations": [
+        {
+          "latitude": 36.63458458542,
+          "station_name": "枣园",
+          "station_code": "1926A",
+          "longitude": 109.42814567865
+        },
+        {
+          "latitude": 36.604741945205,
+          "station_name": "延大医附院",
+          "station_code": "1927A",
+          "longitude": 109.49119495764
+        },
+        {
+          "latitude": 36.616264803256,
+          "station_name": "市监测站",
+          "station_code": "1928A",
+          "longitude": 109.51729261915
+        },
+        {
+          "latitude": 36.610676975008,
+          "station_name": "百米大道",
+          "station_code": "1929A",
+          "longitude": 109.51056529902
+        }
+      ]
+    },
+    {
+      "city": "宝鸡",
+      "areaid": "101110901",
+      "stations": [
+        {
+          "latitude": 34.462039875259,
+          "station_name": "竹园沟",
+          "station_code": "1931A",
+          "longitude": 106.79306527873
+        },
+        {
+          "latitude": 34.369572139974,
+          "station_name": "三陆医院",
+          "station_code": "1932A",
+          "longitude": 107.20349630522
+        },
+        {
+          "latitude": 34.359662675378,
+          "station_name": "监测站",
+          "station_code": "1933A",
+          "longitude": 107.15410683947
+        },
+        {
+          "latitude": 34.378513630477,
+          "station_name": "技工学校",
+          "station_code": "1934A",
+          "longitude": 107.12997206533
+        },
+        {
+          "latitude": 34.355987037561,
+          "station_name": "文理学院",
+          "station_code": "1936A",
+          "longitude": 107.1668060048
+        },
+        {
+          "latitude": 34.366939564938,
+          "station_name": "三迪小学",
+          "station_code": "1937A",
+          "longitude": 107.25141308892
+        },
+        {
+          "latitude": 34.406087337022,
+          "station_name": "庙沟村",
+          "station_code": "1930A",
+          "longitude": 106.92203320419
+        },
+        {
+          "latitude": 34.355910000603,
+          "station_name": "陈仓环保局",
+          "station_code": "1935A",
+          "longitude": 107.39999192197
+        }
+      ]
+    },
+    {
+      "city": "韶关",
+      "areaid": "101280201",
+      "stations": [
+        {
+          "latitude": 24.775690018717,
+          "station_name": "市八中",
+          "station_code": "1669A",
+          "longitude": 113.59306002033
+        },
+        {
+          "latitude": 23.999025159432,
+          "station_name": "碧湖山庄",
+          "station_code": "1670A",
+          "longitude": 114.22370651018
+        },
+        {
+          "latitude": 24.683964032824,
+          "station_name": "园林处",
+          "station_code": "1671A",
+          "longitude": 113.62086715721
+        },
+        {
+          "latitude": 24.779323876366,
+          "station_name": "韶关学院",
+          "station_code": "1672A",
+          "longitude": 113.68088384662
+        },
+        {
+          "latitude": 24.688896212869,
+          "station_name": "曲江监测站",
+          "station_code": "1673A",
+          "longitude": 113.6086861345
+        }
+      ]
+    },
+    {
+      "city": "菏泽",
+      "areaid": "101121001",
+      "stations": [
+        {
+          "latitude": 35.254138241766,
+          "station_name": "市气象局",
+          "station_code": "1718A",
+          "longitude": 115.43475440336
+        },
+        {
+          "latitude": 35.24277238836,
+          "station_name": "市政协",
+          "station_code": "1719A",
+          "longitude": 115.48719119089
+        },
+        {
+          "latitude": 35.254461956749,
+          "station_name": "菏泽学院",
+          "station_code": "1720A",
+          "longitude": 115.43793503368
+        }
+      ]
+    },
+    {
+      "city": "湛江",
+      "areaid": "101281001",
+      "stations": [
+        {
+          "latitude": 21.273326821962,
+          "station_name": "湛江影剧院",
+          "station_code": "1680A",
+          "longitude": 110.37957965785
+        },
+        {
+          "latitude": 21.287328578409,
+          "station_name": "市环境监测站",
+          "station_code": "1681A",
+          "longitude": 110.3697405176
+        },
+        {
+          "latitude": 21.231507194253,
+          "station_name": "环保局宿舍",
+          "station_code": "1682A",
+          "longitude": 110.40134470204
+        },
+        {
+          "latitude": 21.214288070024,
+          "station_name": "霞山游泳场",
+          "station_code": "1683A",
+          "longitude": 110.42083433838
+        },
+        {
+          "latitude": 21.270780443903,
+          "station_name": "麻章区环保局",
+          "station_code": "1684A",
+          "longitude": 110.3423808267
+        },
+        {
+          "latitude": 21.246953987874,
+          "station_name": "坡头区环保局",
+          "station_code": "1685A",
+          "longitude": 110.46077210304
+        }
+      ]
+    },
+    {
+      "city": "茂名",
+      "areaid": "101282001",
+      "stations": [
+        {
+          "latitude": 21.472102618575,
+          "station_name": "市环保局茂港分局",
+          "station_code": "1686A",
+          "longitude": 111.04023575003
+        },
+        {
+          "latitude": 21.673055500171,
+          "station_name": "茂石化七小",
+          "station_code": "1687A",
+          "longitude": 110.92762866286
+        },
+        {
+          "latitude": 22.258274767443,
+          "station_name": "健康路",
+          "station_code": "1688A",
+          "longitude": 112.8005067183
+        },
+        {
+          "latitude": 21.735912693639,
+          "station_name": "高岭",
+          "station_code": "1689A",
+          "longitude": 110.78814247824
+        }
+      ]
+    },
+    {
+      "city": "梅州",
+      "areaid": "101280401",
+      "stations": [
+        {
+          "latitude": 24.332145606187,
+          "station_name": "嘉应大学",
+          "station_code": "1690A",
+          "longitude": 116.13482722778
+        },
+        {
+          "latitude": 24.29271501599,
+          "station_name": "梅县新城",
+          "station_code": "1691A",
+          "longitude": 116.10753490978
+        },
+        {
+          "latitude": 24.275239585342,
+          "station_name": "环境监控中心",
+          "station_code": "1692A",
+          "longitude": 116.09143098691
+        }
+      ]
+    },
+    {
+      "city": "汕尾",
+      "areaid": "101282101",
+      "stations": [
+        {
+          "latitude": 22.777944439328,
+          "station_name": "市环保局",
+          "station_code": "1693A",
+          "longitude": 115.37678044546
+        },
+        {
+          "latitude": 22.7913716551,
+          "station_name": "市政府",
+          "station_code": "1694A",
+          "longitude": 115.38181275293
+        },
+        {
+          "latitude": 22.794623507459,
+          "station_name": "新城中学",
+          "station_code": "1695A",
+          "longitude": 115.37314140984
+        }
+      ]
+    },
+    {
+      "city": "阳江",
+      "areaid": "101281801",
+      "stations": [
+        {
+          "latitude": 21.863589947757,
+          "station_name": "鸳鸯湖",
+          "station_code": "1699A",
+          "longitude": 111.99680400761
+        },
+        {
+          "latitude": 21.850380163546,
+          "station_name": "南恩路",
+          "station_code": "1700A",
+          "longitude": 111.96424178034
+        },
+        {
+          "latitude": 21.876210364876,
+          "station_name": "马南垌",
+          "station_code": "1701A",
+          "longitude": 111.97015316958
+        }
+      ]
+    },
+    {
+      "city": "潮州",
+      "areaid": "101281501",
+      "stations": [
+        {
+          "latitude": 23.674181882461,
+          "station_name": "西园路",
+          "station_code": "1705A",
+          "longitude": 116.64459853672
+        },
+        {
+          "latitude": 23.674370531803,
+          "station_name": "档案局",
+          "station_code": "1706A",
+          "longitude": 116.65489491447
+        },
+        {
+          "latitude": 23.6562308035,
+          "station_name": "市政公司",
+          "station_code": "1707A",
+          "longitude": 116.62798976615
+        }
+      ]
+    },
+    {
+      "city": "揭阳",
+      "areaid": "101281901",
+      "stations": [
+        {
+          "latitude": 22.571130049823,
+          "station_name": "东湖公园",
+          "station_code": "1708A",
+          "longitude": 114.15544157958
+        },
+        {
+          "latitude": 23.546067721638,
+          "station_name": "仙滘",
+          "station_code": "1709A",
+          "longitude": 116.33946751102
+        },
+        {
+          "latitude": 23.547999466926,
+          "station_name": "中长",
+          "station_code": "1710A",
+          "longitude": 116.37950085538
+        },
+        {
+          "latitude": 23.531244075192,
+          "station_name": "渔湖初级中学",
+          "station_code": "1711A",
+          "longitude": 116.42962055367
+        }
+      ]
+    },
+    {
+      "city": "云浮",
+      "areaid": "101281401",
+      "stations": [
+        {
+          "latitude": 22.690983986437,
+          "station_name": "新市府",
+          "station_code": "1712A",
+          "longitude": 111.49324209266
+        },
+        {
+          "latitude": 22.942714323729,
+          "station_name": "市监测站",
+          "station_code": "1713A",
+          "longitude": 112.04903104079
+        },
+        {
+          "latitude": 22.959743979357,
+          "station_name": "牧羊",
+          "station_code": "1714A",
+          "longitude": 112.06534876037
+        }
+      ]
+    },
+    {
+      "city": "宜昌",
+      "areaid": "101200901",
+      "stations": [
+        {
+          "latitude": 30.718995854055,
+          "station_name": "四零三",
+          "station_code": "1839A",
+          "longitude": 111.3135789915
+        },
+        {
+          "latitude": 30.703740855535,
+          "station_name": "白龙岗",
+          "station_code": "1840A",
+          "longitude": 111.31134203111
+        },
+        {
+          "latitude": 30.650737645941,
+          "station_name": "伍家岗",
+          "station_code": "1841A",
+          "longitude": 111.36736180001
+        },
+        {
+          "latitude": 30.699275405251,
+          "station_name": "点军区",
+          "station_code": "1842A",
+          "longitude": 111.27472224768
+        },
+        {
+          "latitude": 30.776090407204,
+          "station_name": "夷陵区",
+          "station_code": "1843A",
+          "longitude": 111.33295669897
+        }
+      ]
+    },
+    {
+      "city": "荆州",
+      "areaid": "101200801",
+      "stations": [
+        {
+          "latitude": 30.609971545785,
+          "station_name": "市图书馆",
+          "station_code": "1844A",
+          "longitude": 114.2905656075
+        },
+        {
+          "latitude": 30.356590583014,
+          "station_name": "市委党校",
+          "station_code": "1845A",
+          "longitude": 112.21498850633
+        },
+        {
+          "latitude": 30.31705411838,
+          "station_name": "科融环保",
+          "station_code": "1846A",
+          "longitude": 112.29507909001
+        }
+      ]
+    },
+    {
+      "city": "赤峰",
+      "areaid": "101080601",
+      "stations": [
+        {
+          "latitude": 42.289234535889,
+          "station_name": "松山一中",
+          "station_code": "1744A",
+          "longitude": 118.93498475518
+        },
+        {
+          "latitude": 42.279480805982,
+          "station_name": "哈达街",
+          "station_code": "1745A",
+          "longitude": 118.96173808988
+        },
+        {
+          "latitude": 42.263872474702,
+          "station_name": "天义路",
+          "station_code": "1746A",
+          "longitude": 118.89368426106
+        },
+        {
+          "latitude": 42.043916536517,
+          "station_name": "松山路",
+          "station_code": "1747A",
+          "longitude": 119.28040747802
+        }
+      ]
+    },
+    {
+      "city": "克拉玛依",
+      "areaid": "101130201",
+      "stations": [
+        {
+          "latitude": 31.375632023995,
+          "station_name": "长征新村",
+          "station_code": "1951A",
+          "longitude": 121.4982653923
+        },
+        {
+          "latitude": 45.589366445832,
+          "station_name": "南林小区",
+          "station_code": "1952A",
+          "longitude": 84.894496936516
+        },
+        {
+          "latitude": 45.693288526742,
+          "station_name": "白碱滩区",
+          "station_code": "1953A",
+          "longitude": 85.138166797626
+        },
+        {
+          "latitude": 44.334508363897,
+          "station_name": "独山子区",
+          "station_code": "1954A",
+          "longitude": 84.893492640913
+        },
+        {
+          "latitude": 46.095425993119,
+          "station_name": "乌尔禾区商贸楼",
+          "station_code": "1955A",
+          "longitude": 85.700244639973
+        }
+      ]
+    },
+    {
+      "city": "库尔勒",
+      "areaid": "101130601",
+      "stations": [
+        {
+          "latitude": 41.76120732312,
+          "station_name": "孔雀公园",
+          "station_code": "1956A",
+          "longitude": 86.157617978297
+        },
+        {
+          "latitude": 41.705499905674,
+          "station_name": "棉纺厂",
+          "station_code": "1957A",
+          "longitude": 85.709417601735
+        },
+        {
+          "latitude": 41.705499905674,
+          "station_name": "经济开发区",
+          "station_code": "1958A",
+          "longitude": 85.709417601735
+        }
+      ]
+    },
+    {
+      "city": "齐齐哈尔",
+      "areaid": "101050201",
+      "stations": [
+        {
+          "latitude": 47.218907538073,
+          "station_name": "安居小区",
+          "station_code": "1779A",
+          "longitude": 123.64424178826
+        },
+        {
+          "latitude": 46.395654910195,
+          "station_name": "中心广场",
+          "station_code": "1780A",
+          "longitude": 123.42224624249
+        },
+        {
+          "latitude": 47.332674679304,
+          "station_name": "农牧车辆厂",
+          "station_code": "1781A",
+          "longitude": 123.96422090583
+        },
+        {
+          "latitude": 47.21089707765,
+          "station_name": "富区环保局",
+          "station_code": "1782A",
+          "longitude": 123.63904149766
+        },
+        {
+          "latitude": 47.347569522072,
+          "station_name": "市环境监测站",
+          "station_code": "1783A",
+          "longitude": 123.94456104059
+        }
+      ]
+    },
+    {
+      "city": "牡丹江",
+      "areaid": "101050301",
+      "stations": [
+        {
+          "latitude": 27.670582198172,
+          "station_name": "环保大楼",
+          "station_code": "1784A",
+          "longitude": 120.56758682127
+        },
+        {
+          "latitude": 44.587535551765,
+          "station_name": "文化广场",
+          "station_code": "1785A",
+          "longitude": 129.62616921948
+        },
+        {
+          "latitude": 44.604101915055,
+          "station_name": "第一医院",
+          "station_code": "1786A",
+          "longitude": 129.60454197534
+        },
+        {
+          "latitude": 44.613975514331,
+          "station_name": "机车工厂",
+          "station_code": "1787A",
+          "longitude": 129.65773064459
+        },
+        {
+          "latitude": 44.55555900783,
+          "station_name": "第一中学",
+          "station_code": "1788A",
+          "longitude": 129.65324091365
+        }
+      ]
+    },
+    {
+      "city": "曲靖",
+      "areaid": "101290401",
+      "stations": [
+        {
+          "latitude": 25.506934408993,
+          "station_name": "环境监测站",
+          "station_code": "1916A",
+          "longitude": 103.79844976504
+        },
+        {
+          "latitude": 25.540703826927,
+          "station_name": "烟厂办公区",
+          "station_code": "1917A",
+          "longitude": 103.81198812738
+        }
+      ]
+    },
+    {
+      "city": "九江",
+      "areaid": "101240201",
+      "stations": [
+        {
+          "latitude": 29.680737968752,
+          "station_name": "十里",
+          "station_code": "1803A",
+          "longitude": 115.99812219701
+        },
+        {
+          "latitude": 29.687731189051,
+          "station_name": "茅山头",
+          "station_code": "1804A",
+          "longitude": 115.98093042616
+        },
+        {
+          "latitude": 29.733410741845,
+          "station_name": "西园",
+          "station_code": "1805A",
+          "longitude": 115.99624833172
+        },
+        {
+          "latitude": 29.661184152753,
+          "station_name": "五七二七厂",
+          "station_code": "1806A",
+          "longitude": 116.01928268159
+        },
+        {
+          "latitude": 29.711077061072,
+          "station_name": "水科所",
+          "station_code": "1807A",
+          "longitude": 115.98285190165
+        },
+        {
+          "latitude": 29.606002620896,
+          "station_name": "综合工业园",
+          "station_code": "1808A",
+          "longitude": 115.92532441681
+        },
+        {
+          "latitude": 29.750897325769,
+          "station_name": "石化总厂",
+          "station_code": "1809A",
+          "longitude": 116.08377922058
+        },
+        {
+          "latitude": 29.707606821246,
+          "station_name": "庐山气象台",
+          "station_code": "1810A",
+          "longitude": 116.03085285656
+        }
+      ]
+    },
+    {
+      "city": "金昌",
+      "areaid": "101160601",
+      "stations": [
+        {
+          "latitude": 38.530784662363,
+          "station_name": "市科委",
+          "station_code": "1942A",
+          "longitude": 102.19814096803
+        },
+        {
+          "latitude": 38.539839639531,
+          "station_name": "新川苑",
+          "station_code": "1943A",
+          "longitude": 102.18136421433
+        },
+        {
+          "latitude": 38.513028903927,
+          "station_name": "公司二招",
+          "station_code": "1944A",
+          "longitude": 102.19296852491
+        }
+      ]
+    },
+    {
+      "city": "嘉峪关",
+      "areaid": "101161401",
+      "stations": [
+        {
+          "latitude": 39.777978377319,
+          "station_name": "气象局",
+          "station_code": "1945A",
+          "longitude": 98.297638257239
+        },
+        {
+          "latitude": 39.863871786543,
+          "station_name": "酒钢耐材公司",
+          "station_code": "1946A",
+          "longitude": 98.26167818937
+        }
+      ]
+    },
+    {
+      "city": "洛阳",
+      "areaid": "101180901",
+      "stations": [
+        {
+          "latitude": 34.618921734865,
+          "station_name": "中信二小",
+          "station_code": "1811A",
+          "longitude": 112.3653962894
+        },
+        {
+          "latitude": 34.656608119798,
+          "station_name": "市委党校",
+          "station_code": "1812A",
+          "longitude": 112.40671205472
+        },
+        {
+          "latitude": 34.678480953125,
+          "station_name": "市监测站",
+          "station_code": "1813A",
+          "longitude": 112.4722802722
+        },
+        {
+          "latitude": 34.712881995605,
+          "station_name": "豫西宾馆",
+          "station_code": "1814A",
+          "longitude": 112.53349530117
+        },
+        {
+          "latitude": 34.693555259275,
+          "station_name": "河南林校",
+          "station_code": "1815A",
+          "longitude": 112.50550140657
+        },
+        {
+          "latitude": 34.623425913016,
+          "station_name": "开发区管委会",
+          "station_code": "1816A",
+          "longitude": 112.48762961844
+        },
+        {
+          "latitude": 34.627933408886,
+          "station_name": "市委新办公区",
+          "station_code": "1817A",
+          "longitude": 112.460060802
+        }
+      ]
+    },
+    {
+      "city": "安阳",
+      "areaid": "101180201",
+      "stations": [
+        {
+          "latitude": 36.068248858623,
+          "station_name": "棉研所",
+          "station_code": "1818A",
+          "longitude": 114.36105303578
+        },
+        {
+          "latitude": 36.108440304415,
+          "station_name": "红庙街",
+          "station_code": "1819A",
+          "longitude": 114.36781988135
+        },
+        {
+          "latitude": 36.074866098649,
+          "station_name": "银杏小区",
+          "station_code": "1820A",
+          "longitude": 114.37191795109
+        },
+        {
+          "latitude": 36.095222192437,
+          "station_name": "环保局",
+          "station_code": "1821A",
+          "longitude": 114.40526844145
+        },
+        {
+          "latitude": 36.110542631098,
+          "station_name": "铁佛寺",
+          "station_code": "1822A",
+          "longitude": 114.30596436055
+        }
+      ]
+    },
+    {
+      "city": "开封",
+      "areaid": "101180801",
+      "stations": [
+        {
+          "latitude": 34.806501248745,
+          "station_name": "河大一附院",
+          "station_code": "1823A",
+          "longitude": 114.35292058617
+        },
+        {
+          "latitude": 34.782538952079,
+          "station_name": "肿瘤医院",
+          "station_code": "1824A",
+          "longitude": 114.35079995635
+        },
+        {
+          "latitude": 34.801935242901,
+          "station_name": "妇幼保健院",
+          "station_code": "1825A",
+          "longitude": 114.35752260529
+        },
+        {
+          "latitude": 34.801272031923,
+          "station_name": "世纪星幼儿园",
+          "station_code": "1826A",
+          "longitude": 114.30072544281
+        }
+      ]
+    },
+    {
+      "city": "焦作",
+      "areaid": "101181101",
+      "stations": [
+        {
+          "latitude": 35.241006310419,
+          "station_name": "市监测站",
+          "station_code": "1827A",
+          "longitude": 113.27484968092
+        },
+        {
+          "latitude": 35.217563686389,
+          "station_name": "市环保局",
+          "station_code": "1828A",
+          "longitude": 113.23983876265
+        },
+        {
+          "latitude": 35.18200861178,
+          "station_name": "高新区政府",
+          "station_code": "1829A",
+          "longitude": 113.25841347484
+        },
+        {
+          "latitude": 35.268163933162,
+          "station_name": "影视城",
+          "station_code": "1830A",
+          "longitude": 113.2152020154
+        }
+      ]
+    },
+    {
+      "city": "平顶山",
+      "areaid": "101180501",
+      "stations": [
+        {
+          "latitude": 39.566890238229,
+          "station_name": "高压开关厂",
+          "station_code": "1831A",
+          "longitude": 116.7936514212
+        },
+        {
+          "latitude": 33.331789943515,
+          "station_name": "新华旅馆",
+          "station_code": "1832A",
+          "longitude": 113.53932348917
+        },
+        {
+          "latitude": 33.741268612672,
+          "station_name": "规划设计院",
+          "station_code": "1833A",
+          "longitude": 113.30413273377
+        },
+        {
+          "latitude": 33.71664231984,
+          "station_name": "平顶山工学院",
+          "station_code": "1834A",
+          "longitude": 113.29517033969
+        }
+      ]
+    },
+    {
+      "city": "三门峡",
+      "areaid": "101181701",
+      "stations": [
+        {
+          "latitude": 34.778441695129,
+          "station_name": "市政府",
+          "station_code": "1835A",
+          "longitude": 111.20683191046
+        },
+        {
+          "latitude": 34.797668367995,
+          "station_name": "开发区",
+          "station_code": "1836A",
+          "longitude": 111.16879496025
+        },
+        {
+          "latitude": 29.017744246024,
+          "station_name": "二印",
+          "station_code": "1837A",
+          "longitude": 121.48822880178
+        },
+        {
+          "latitude": 34.798187103833,
+          "station_name": "风景区",
+          "station_code": "1838A",
+          "longitude": 111.16679623049
+        }
+      ]
+    },
+    {
+      "city": "遵义",
+      "areaid": "101260201",
+      "stations": [
+        {
+          "latitude": 27.688190256018,
+          "station_name": "丁字口",
+          "station_code": "1911A",
+          "longitude": 106.93247329841
+        },
+        {
+          "latitude": 27.662107605956,
+          "station_name": "凤凰山",
+          "station_code": "1912A",
+          "longitude": 106.95390776618
+        },
+        {
+          "latitude": 27.643215110936,
+          "station_name": "忠庄",
+          "station_code": "1913A",
+          "longitude": 106.89172885541
+        },
+        {
+          "latitude": 27.648741529044,
+          "station_name": "舟水桥",
+          "station_code": "1914A",
+          "longitude": 106.93195587444
+        },
+        {
+          "latitude": 27.712086359596,
+          "station_name": "干田坝",
+          "station_code": "1915A",
+          "longitude": 106.92788385557
+        }
+      ]
+    },
+    {
+      "city": "吴江",
+      "areaid": "101190407",
+      "stations": [
+        {
+          "latitude": 31.158606377417,
+          "station_name": "吴江市环保局",
+          "station_code": "1985A",
+          "longitude": 120.64723662334
+        },
+        {
+          "latitude": 31.173365877291,
+          "station_name": "教师进修学校",
+          "station_code": "1986A",
+          "longitude": 120.64586266506
+        },
+        {
+          "latitude": 31.185626846249,
+          "station_name": "吴江开发区",
+          "station_code": "1987A",
+          "longitude": 120.68244516882
+        }
+      ]
+    },
+    {
+      "city": "昆山",
+      "areaid": "101190404",
+      "stations": [
+        {
+          "latitude": 31.391270472,
+          "station_name": "昆山实验小学",
+          "station_code": "1988A",
+          "longitude": 120.9639466275
+        },
+        {
+          "latitude": 31.385882928436,
+          "station_name": "震川中学",
+          "station_code": "1989A",
+          "longitude": 121.00865556222
+        }
+      ]
+    },
+    {
+      "city": "常熟",
+      "areaid": "101190402",
+      "stations": [
+        {
+          "latitude": 31.751976769443,
+          "station_name": "海虞子站",
+          "station_code": "1990A",
+          "longitude": 120.80971610534
+        },
+        {
+          "latitude": 31.673242840786,
+          "station_name": "兴福子站",
+          "station_code": "1991A",
+          "longitude": 120.72646573203
+        },
+        {
+          "latitude": 31.662484646775,
+          "station_name": "菱塘子站",
+          "station_code": "1992A",
+          "longitude": 120.74790765574
+        }
+      ]
+    },
+    {
+      "city": "张家港",
+      "areaid": "101190403",
+      "stations": [
+        {
+          "latitude": 31.907812337769,
+          "station_name": "张家港市监测站",
+          "station_code": "1993A",
+          "longitude": 120.62727852834
+        },
+        {
+          "latitude": 31.885579080415,
+          "station_name": "城北小学",
+          "station_code": "1994A",
+          "longitude": 120.56015219229
+        }
+      ]
+    },
+    {
+      "city": "太仓",
+      "areaid": "101190408",
+      "stations": [
+        {
+          "latitude": 31.571904296415,
+          "station_name": "太仓市监测站",
+          "station_code": "1995A",
+          "longitude": 121.15897767248
+        },
+        {
+          "latitude": 31.571904296415,
+          "station_name": "科教新城实小",
+          "station_code": "1996A",
+          "longitude": 121.15897767248
+        }
+      ]
+    },
+    {
+      "city": "句容",
+      "areaid": "101190304",
+      "stations": [
+        {
+          "latitude": 31.959065287847,
+          "station_name": "消防指挥中心",
+          "station_code": "1997A",
+          "longitude": 119.15851433727
+        },
+        {
+          "latitude": 31.953143656078,
+          "station_name": "房家坝",
+          "station_code": "1998A",
+          "longitude": 119.18870611597
+        }
+      ]
+    },
+    {
+      "city": "江阴",
+      "areaid": "101190202",
+      "stations": [
+        {
+          "latitude": 31.923318478552,
+          "station_name": "虹桥邮政",
+          "station_code": "1999A",
+          "longitude": 120.27915450334
+        },
+        {
+          "latitude": 31.912392857208,
+          "station_name": "五星公园",
+          "station_code": "2000A",
+          "longitude": 120.24937549602
+        },
+        {
+          "latitude": 31.922942587042,
+          "station_name": "第二实验小学",
+          "station_code": "2001A",
+          "longitude": 120.31406373342
+        }
+      ]
+    },
+    {
+      "city": "宜兴",
+      "areaid": "101190203",
+      "stations": [
+        {
+          "latitude": 31.357990702974,
+          "station_name": "宜兴市环保局",
+          "station_code": "2002A",
+          "longitude": 119.82823684752
+        },
+        {
+          "latitude": 31.372932018888,
+          "station_name": "宜园",
+          "station_code": "2003A",
+          "longitude": 119.80436653452
+        }
+      ]
+    },
+    {
+      "city": "金坛",
+      "areaid": "101191103",
+      "stations": [
+        {
+          "latitude": 31.72305418071,
+          "station_name": "金坛市环境监测站",
+          "station_code": "2004A",
+          "longitude": 119.51503835097
+        },
+        {
+          "latitude": 31.72305418071,
+          "station_name": "金坛市自来水公司",
+          "station_code": "2005A",
+          "longitude": 119.51503835097
+        }
+      ]
+    },
+    {
+      "city": "溧阳",
+      "areaid": "101191102",
+      "stations": [
+        {
+          "latitude": 31.425241931012,
+          "station_name": "溧阳市东门子站",
+          "station_code": "2006A",
+          "longitude": 119.38283894831
+        },
+        {
+          "latitude": 31.405285916685,
+          "station_name": "燕山子站",
+          "station_code": "2007A",
+          "longitude": 119.48077676778
+        }
+      ]
+    },
+    {
+      "city": "海门",
+      "areaid": "101190508",
+      "stations": [
+        {
+          "latitude": 31.956038868177,
+          "station_name": "海门市监测站",
+          "station_code": "2008A",
+          "longitude": 121.31247014367
+        },
+        {
+          "latitude": 20.035493963188,
+          "station_name": "蓓蕾幼儿园",
+          "station_code": "2009A",
+          "longitude": 110.33660606973
+        }
+      ]
+    },
+    {
+      "city": "岳阳",
+      "areaid": "101251001",
+      "stations": [
+        {
+          "latitude": 29.33775126911,
+          "station_name": "南湖风景区",
+          "station_code": "1847A",
+          "longitude": 113.12227795526
+        },
+        {
+          "latitude": 29.441549680128,
+          "station_name": "城陵矶",
+          "station_code": "1848A",
+          "longitude": 113.15654202232
+        },
+        {
+          "latitude": 29.361872968348,
+          "station_name": "开发区",
+          "station_code": "1849A",
+          "longitude": 113.16401861907
+        },
+        {
+          "latitude": 29.479889769671,
+          "station_name": "云溪区",
+          "station_code": "1850A",
+          "longitude": 113.27879601235
+        },
+        {
+          "latitude": 29.467287985793,
+          "station_name": "君山区",
+          "station_code": "1851A",
+          "longitude": 113.01302514087
+        },
+        {
+          "latitude": 28.541428010316,
+          "station_name": "金凤水库",
+          "station_code": "1852A",
+          "longitude": 112.94591004132
+        }
+      ]
+    },
+    {
+      "city": "常德",
+      "areaid": "101250601",
+      "stations": [
+        {
+          "latitude": 29.024075687744,
+          "station_name": "市监测站",
+          "station_code": "1853A",
+          "longitude": 111.71169935579
+        },
+        {
+          "latitude": 28.973756447833,
+          "station_name": "市二中",
+          "station_code": "1854A",
+          "longitude": 111.70962606668
+        },
+        {
+          "latitude": 29.026533637955,
+          "station_name": "鼎城区环保局",
+          "station_code": "1855A",
+          "longitude": 111.68750349689
+        },
+        {
+          "latitude": 29.071862856605,
+          "station_name": "市技术监督局",
+          "station_code": "1856A",
+          "longitude": 111.70716291297
+        },
+        {
+          "latitude": 28.917817681602,
+          "station_name": "白鹤山",
+          "station_code": "1857A",
+          "longitude": 11.27070654871
+        }
+      ]
+    },
+    {
+      "city": "张家界",
+      "areaid": "101251101",
+      "stations": [
+        {
+          "latitude": 29.126028934081,
+          "station_name": "永定新区",
+          "station_code": "1858A",
+          "longitude": 110.54379978638
+        },
+        {
+          "latitude": 29.127529214201,
+          "station_name": "电业局",
+          "station_code": "1859A",
+          "longitude": 110.48057704461
+        },
+        {
+          "latitude": 29.357331307787,
+          "station_name": "未央路",
+          "station_code": "1860A",
+          "longitude": 110.54222954835
+        },
+        {
+          "latitude": 29.245406176143,
+          "station_name": "袁家界",
+          "station_code": "1861A",
+          "longitude": 110.54990511978
+        }
+      ]
+    },
+    {
+      "city": "绵阳",
+      "areaid": "101270401",
+      "stations": [
+        {
+          "latitude": 31.476201599376,
+          "station_name": "富乐山",
+          "station_code": "1878A",
+          "longitude": 104.77925476613
+        },
+        {
+          "latitude": 31.487505701414,
+          "station_name": "市人大",
+          "station_code": "1879A",
+          "longitude": 104.72098438261
+        },
+        {
+          "latitude": 31.469216202179,
+          "station_name": "高新区自来水公司",
+          "station_code": "1880A",
+          "longitude": 104.68124783838
+        },
+        {
+          "latitude": 31.509572555602,
+          "station_name": "三水厂",
+          "station_code": "1881A",
+          "longitude": 104.73842184002
+        }
+      ]
+    },
+    {
+      "city": "宜宾",
+      "areaid": "101271101",
+      "stations": [
+        {
+          "latitude": 28.79627054496,
+          "station_name": "石马中学",
+          "station_code": "1882A",
+          "longitude": 104.57200309707
+        },
+        {
+          "latitude": 28.776123455365,
+          "station_name": "市委",
+          "station_code": "1883A",
+          "longitude": 104.62953597174
+        },
+        {
+          "latitude": 28.809569726095,
+          "station_name": "宜宾四中",
+          "station_code": "1884A",
+          "longitude": 104.60829014813
+        },
+        {
+          "latitude": 28.758887003572,
+          "station_name": "市政府",
+          "station_code": "1885A",
+          "longitude": 104.64921200647
+        },
+        {
+          "latitude": 28.998016834014,
+          "station_name": "黄金嘴",
+          "station_code": "1886A",
+          "longitude": 104.38460309317
+        },
+        {
+          "latitude": 28.801938752183,
+          "station_name": "沙坪中学",
+          "station_code": "1887A",
+          "longitude": 104.6889579829
+        }
+      ]
+    },
+    {
+      "city": "攀枝花",
+      "areaid": "101270201",
+      "stations": [
+        {
+          "latitude": 26.568666533485,
+          "station_name": "弄弄坪",
+          "station_code": "1888A",
+          "longitude": 101.7001006199
+        },
+        {
+          "latitude": 26.528006336848,
+          "station_name": "河门口",
+          "station_code": "1889A",
+          "longitude": 101.72416981772
+        },
+        {
+          "latitude": 26.592498050992,
+          "station_name": "炳草岗",
+          "station_code": "1890A",
+          "longitude": 101.72743964978
+        },
+        {
+          "latitude": 26.509038339368,
+          "station_name": "仁和",
+          "station_code": "1891A",
+          "longitude": 101.73786897675
+        },
+        {
+          "latitude": 26.549213687105,
+          "station_name": "金江",
+          "station_code": "1892A",
+          "longitude": 101.85639140569
+        }
+      ]
+    },
+    {
+      "city": "泸州",
+      "areaid": "101271001",
+      "stations": [
+        {
+          "latitude": 28.963871816449,
+          "station_name": "九狮山",
+          "station_code": "1893A",
+          "longitude": 105.44326332277
+        },
+        {
+          "latitude": 28.905432533022,
+          "station_name": "小市上码头",
+          "station_code": "1894A",
+          "longitude": 105.4536378531
+        },
+        {
+          "latitude": 28.863739011331,
+          "station_name": "兰田宪桥",
+          "station_code": "1895A",
+          "longitude": 105.43947157521
+        },
+        {
+          "latitude": 29.157096466496,
+          "station_name": "市环监站",
+          "station_code": "1896A",
+          "longitude": 105.38510343085
+        }
+      ]
+    },
+    {
+      "city": "自贡",
+      "areaid": "101270301",
+      "stations": [
+        {
+          "latitude": 29.376131712838,
+          "station_name": "大塘山",
+          "station_code": "1897A",
+          "longitude": 104.76108023736
+        },
+        {
+          "latitude": 33.378775355514,
+          "station_name": "盐马路",
+          "station_code": "1898A",
+          "longitude": 120.13533201831
+        },
+        {
+          "latitude": 29.363141543265,
+          "station_name": "檀木林街",
+          "station_code": "1899A",
+          "longitude": 104.78024917863
+        },
+        {
+          "latitude": 29.345115578932,
+          "station_name": "春华路",
+          "station_code": "1900A",
+          "longitude": 104.78283360358
+        }
+      ]
+    },
+    {
+      "city": "德阳",
+      "areaid": "101272001",
+      "stations": [
+        {
+          "latitude": 31.140799714333,
+          "station_name": "东山公园",
+          "station_code": "1901A",
+          "longitude": 104.42562512416
+        },
+        {
+          "latitude": 31.134922395611,
+          "station_name": "西小区",
+          "station_code": "1902A",
+          "longitude": 104.39212192186
+        },
+        {
+          "latitude": 31.121330363579,
+          "station_name": "市检察院",
+          "station_code": "1903A",
+          "longitude": 104.41294015205
+        },
+        {
+          "latitude": 31.114880647573,
+          "station_name": "耐火材料厂",
+          "station_code": "1904A",
+          "longitude": 104.3659785366
+        }
+      ]
+    },
+    {
+      "city": "南充",
+      "areaid": "101270501",
+      "stations": [
+        {
+          "latitude": 30.791719909507,
+          "station_name": "西山风景区",
+          "station_code": "1905A",
+          "longitude": 106.06841120689
+        },
+        {
+          "latitude": 30.80492825483,
+          "station_name": "南充市委",
+          "station_code": "1906A",
+          "longitude": 106.08978279328
+        },
+        {
+          "latitude": 30.824424118871,
+          "station_name": "南充炼油厂",
+          "station_code": "1907A",
+          "longitude": 106.11393912674
+        },
+        {
+          "latitude": 30.789255162112,
+          "station_name": "高坪区监测站",
+          "station_code": "1908A",
+          "longitude": 106.11670770433
+        },
+        {
+          "latitude": 30.768242500659,
+          "station_name": "嘉陵区环保局",
+          "station_code": "1909A",
+          "longitude": 106.08622370685
+        },
+        {
+          "latitude": 30.768251809619,
+          "station_name": "市环境监测站",
+          "station_code": "1910A",
+          "longitude": 106.08624257126
+        }
+      ]
+    },
+    {
+      "city": "三亚",
+      "areaid": "101310201",
+      "stations": [
+        {
+          "latitude": 18.25684548837,
+          "station_name": "河东子站",
+          "station_code": "1876A",
+          "longitude": 109.51948357302
+        },
+        {
+          "latitude": 18.2612254873,
+          "station_name": "河西子站",
+          "station_code": "1877A",
+          "longitude": 109.50984116168
+        }
+      ]
+    },
+    {
+      "city": "吉林",
+      "areaid": "101060201",
+      "stations": [
+        {
+          "latitude": 43.96352799618,
+          "station_name": "哈达湾",
+          "station_code": "1772A",
+          "longitude": 126.553071819
+        },
+        {
+          "latitude": 43.855934231322,
+          "station_name": "东局子",
+          "station_code": "1773A",
+          "longitude": 126.59655519551
+        },
+        {
+          "latitude": 43.832310633522,
+          "station_name": "电力学院",
+          "station_code": "1774A",
+          "longitude": 126.51934763354
+        },
+        {
+          "latitude": 43.949875555574,
+          "station_name": "江北",
+          "station_code": "1775A",
+          "longitude": 126.56069573786
+        },
+        {
+          "latitude": 43.837014128087,
+          "station_name": "江南公园",
+          "station_code": "1776A",
+          "longitude": 126.56399970552
+        },
+        {
+          "latitude": 43.964052278281,
+          "station_name": "农科院",
+          "station_code": "1777A",
+          "longitude": 126.47618405379
+        },
+        {
+          "latitude": 43.827269227764,
+          "station_name": "丰满",
+          "station_code": "1778A",
+          "longitude": 126.56844092797
+        }
+      ]
+    },
+    {
+      "city": "石嘴山",
+      "areaid": "101170201",
+      "stations": [
+        {
+          "latitude": 38.830483132838,
+          "station_name": "沙湖旅游区",
+          "station_code": "1947A",
+          "longitude": 106.37065696522
+        },
+        {
+          "latitude": 39.0087703877,
+          "station_name": "大武口黄河东街",
+          "station_code": "1948A",
+          "longitude": 106.37592184398
+        },
+        {
+          "latitude": 39.237093124518,
+          "station_name": "惠农南大街",
+          "station_code": "1949A",
+          "longitude": 106.78480203584
+        },
+        {
+          "latitude": 39.14109583703,
+          "station_name": "红果子镇惠新街",
+          "station_code": "1950A",
+          "longitude": 106.71828403994
+        }
+      ]
+    },
+    {
+      "city": "临安",
+      "areaid": "101210107",
+      "stations": [
+        {
+          "latitude": 30.239727908433,
+          "station_name": "市政府",
+          "station_code": "2010A",
+          "longitude": 119.73132019316
+        },
+        {
+          "latitude": 30.242236877429,
+          "station_name": "四中",
+          "station_code": "2011A",
+          "longitude": 119.65811691783
+        }
+      ]
+    },
+    {
+      "city": "富阳",
+      "areaid": "101210108",
+      "stations": [
+        {
+          "latitude": 30.056891202751,
+          "station_name": "监测站",
+          "station_code": "2012A",
+          "longitude": 119.96554293455
+        },
+        {
+          "latitude": 30.052759596351,
+          "station_name": "富春二小",
+          "station_code": "2013A",
+          "longitude": 119.95581401638
+        }
+      ]
+    },
+    {
+      "city": "义乌",
+      "areaid": "101210904",
+      "stations": [
+        {
+          "latitude": 29.87539247212,
+          "station_name": "江东",
+          "station_code": "2014A",
+          "longitude": 121.5980008523
+        },
+        {
+          "latitude": 29.333099811823,
+          "station_name": "北苑",
+          "station_code": "2015A",
+          "longitude": 120.0612494648
+        }
+      ]
+    },
+    {
+      "city": "诸暨",
+      "areaid": "101210502",
+      "stations": [
+        {
+          "latitude": 29.699399516981,
+          "station_name": "图书馆",
+          "station_code": "2016A",
+          "longitude": 120.28143440994
+        },
+        {
+          "latitude": 29.730062656378,
+          "station_name": "富林印务",
+          "station_code": "2017A",
+          "longitude": 120.22735828066
+        }
+      ]
+    },
+    {
+      "city": "鞍山",
+      "areaid": "101070301",
+      "stations": [
+        {
+          "latitude": 41.141186766348,
+          "station_name": "深沟寺",
+          "station_code": "1748A",
+          "longitude": 123.03270594917
+        },
+        {
+          "latitude": 41.101158669297,
+          "station_name": "中心站",
+          "station_code": "1749A",
+          "longitude": 123.01123554917
+        },
+        {
+          "latitude": 41.15070054405,
+          "station_name": "太平子站",
+          "station_code": "1750A",
+          "longitude": 123.06255484465
+        },
+        {
+          "latitude": 41.12546255697,
+          "station_name": "铁西",
+          "station_code": "1751A",
+          "longitude": 122.97586746463
+        },
+        {
+          "latitude": 41.15137290703,
+          "station_name": "开发区",
+          "station_code": "1752A",
+          "longitude": 122.95385197286
+        },
+        {
+          "latitude": 41.090508968595,
+          "station_name": "明达新区",
+          "station_code": "1753A",
+          "longitude": 123.02145000146
+        },
+        {
+          "latitude": 41.017700215033,
+          "station_name": "千山公园",
+          "station_code": "1754A",
+          "longitude": 123.15456917634
+        }
+      ]
+    },
+    {
+      "city": "抚顺",
+      "areaid": "101070401",
+      "stations": [
+        {
+          "latitude": 41.858922037268,
+          "station_name": "望花",
+          "station_code": "1755A",
+          "longitude": 123.79099347761
+        },
+        {
+          "latitude": 41.885447862766,
+          "station_name": "新华",
+          "station_code": "1756A",
+          "longitude": 123.92295186211
+        },
+        {
+          "latitude": 41.872415967705,
+          "station_name": "东洲",
+          "station_code": "1757A",
+          "longitude": 124.05079510907
+        },
+        {
+          "latitude": 41.866996580608,
+          "station_name": "站前",
+          "station_code": "1758A",
+          "longitude": 123.91650023194
+        },
+        {
+          "latitude": 41.894832578918,
+          "station_name": "水库",
+          "station_code": "1759A",
+          "longitude": 124.09441323141
+        },
+        {
+          "latitude": 41.843187695192,
+          "station_name": "沈抚新城",
+          "station_code": "1760A",
+          "longitude": 123.71758305303
+        }
+      ]
+    },
+    {
+      "city": "本溪",
+      "areaid": "101070501",
+      "stations": [
+        {
+          "latitude": 41.249658994973,
+          "station_name": "大峪",
+          "station_code": "1761A",
+          "longitude": 123.85885417075
+        },
+        {
+          "latitude": 41.334896370542,
+          "station_name": "溪湖",
+          "station_code": "1762A",
+          "longitude": 123.77429936801
+        },
+        {
+          "latitude": 41.309521996936,
+          "station_name": "彩屯",
+          "station_code": "1763A",
+          "longitude": 123.74521942204
+        },
+        {
+          "latitude": 41.298192824604,
+          "station_name": "东明",
+          "station_code": "1764A",
+          "longitude": 123.78691247568
+        },
+        {
+          "latitude": 41.28415731928,
+          "station_name": "职业病院",
+          "station_code": "1765A",
+          "longitude": 123.80735611247
+        },
+        {
+          "latitude": 41.352911357648,
+          "station_name": "威宁",
+          "station_code": "1766A",
+          "longitude": 123.82627559431
+        }
+      ]
+    },
+    {
+      "city": "锦州",
+      "areaid": "101070701",
+      "stations": [
+        {
+          "latitude": 41.074792713757,
+          "station_name": "南山",
+          "station_code": "1767A",
+          "longitude": 121.11189970093
+        },
+        {
+          "latitude": 41.130878875917,
+          "station_name": "开发区",
+          "station_code": "1768A",
+          "longitude": 121.14774873824
+        },
+        {
+          "latitude": 41.124779329345,
+          "station_name": "百股水厂",
+          "station_code": "1769A",
+          "longitude": 121.2057128894
+        },
+        {
+          "latitude": 41.123601970987,
+          "station_name": "监测站",
+          "station_code": "1770A",
+          "longitude": 121.13427020304
+        },
+        {
+          "latitude": 41.143125625469,
+          "station_name": "北湖公园",
+          "station_code": "1771A",
+          "longitude": 121.13857308644
+        }
+      ]
+    },
+    {
+      "city": "瓦房店",
+      "areaid": "101070202",
+      "stations": [
+        {
+          "latitude": 39.628790368631,
+          "station_name": "抱龙山庄",
+          "station_code": "2018A",
+          "longitude": 122.00177398488
+        },
+        {
+          "latitude": 39.627170181485,
+          "station_name": "东山公园",
+          "station_code": "2019A",
+          "longitude": 122.02344353921
+        }
+      ]
+    },
+    {
+      "city": "桂林",
+      "areaid": "101300501",
+      "stations": [
+        {
+          "latitude": 25.312437381311,
+          "station_name": "电子科大尧山校区",
+          "station_code": "1862A",
+          "longitude": 110.42049980941
+        },
+        {
+          "latitude": 26.04171237529,
+          "station_name": "监测站",
+          "station_code": "1863A",
+          "longitude": 110.65067927762
+        },
+        {
+          "latitude": 25.273692909942,
+          "station_name": "龙隐路小学",
+          "station_code": "1864A",
+          "longitude": 110.31912279874
+        },
+        {
+          "latitude": 25.233017749363,
+          "station_name": "八中",
+          "station_code": "1865A",
+          "longitude": 110.29562222831
+        }
+      ]
+    },
+    {
+      "city": "芜湖",
+      "areaid": "101220301",
+      "stations": [
+        {
+          "latitude": 31.341572154735,
+          "station_name": "监测站",
+          "station_code": "1794A",
+          "longitude": 118.38980583609
+        },
+        {
+          "latitude": 31.417556441241,
+          "station_name": "科创中心",
+          "station_code": "1795A",
+          "longitude": 118.38278288362
+        },
+        {
+          "latitude": 32.653334026843,
+          "station_name": "四水厂",
+          "station_code": "1796A",
+          "longitude": 117.02405807094
+        },
+        {
+          "latitude": 31.366019787543,
+          "station_name": "五七二零厂",
+          "station_code": "1797A",
+          "longitude": 118.38410842323
+        }
+      ]
+    },
+    {
+      "city": "胶州",
+      "areaid": "101120205",
+      "stations": [
+        {
+          "latitude": 36.28952034056,
+          "station_name": "胶州环保局",
+          "station_code": "1967A",
+          "longitude": 120.01949731941
+        },
+        {
+          "latitude": 36.259572647592,
+          "station_name": "胶州一中",
+          "station_code": "1968A",
+          "longitude": 120.02778355892
+        }
+      ]
+    },
+    {
+      "city": "章丘",
+      "areaid": "101120104",
+      "stations": [
+        {
+          "latitude": 36.744883031601,
+          "station_name": "环境监测站",
+          "station_code": "1961A",
+          "longitude": 117.47934537885
+        },
+        {
+          "latitude": 47.201247327838,
+          "station_name": "明水开发区",
+          "station_code": "1962A",
+          "longitude": 125.84126811337
+        }
+      ]
+    },
+    {
+      "city": "即墨",
+      "areaid": "101120204",
+      "stations": [
+        {
+          "latitude": 36.394410141025,
+          "station_name": "环保局子站",
+          "station_code": "1963A",
+          "longitude": 120.45089192192
+        },
+        {
+          "latitude": 36.487908601599,
+          "station_name": "开发区子站",
+          "station_code": "1964A",
+          "longitude": 120.52110561991
+        }
+      ]
+    },
+    {
+      "city": "平度",
+      "areaid": "101120208",
+      "stations": [
+        {
+          "latitude": 36.796797283783,
+          "station_name": "1号",
+          "station_code": "1971A",
+          "longitude": 119.95650723874
+        },
+        {
+          "latitude": 36.790670883659,
+          "station_name": "2号",
+          "station_code": "1972A",
+          "longitude": 120.0011074785
+        }
+      ]
+    },
+    {
+      "city": "胶南",
+      "areaid": "101120205",
+      "stations": [
+        {
+          "latitude": 35.884346476385,
+          "station_name": "JN子站",
+          "station_code": "1965A",
+          "longitude": 120.01569685829
+        },
+        {
+          "latitude": 35.877764060928,
+          "station_name": "2号子站",
+          "station_code": "1966A",
+          "longitude": 120.05017759664
+        }
+      ]
+    },
+    {
+      "city": "莱西",
+      "areaid": "101120207",
+      "stations": [
+        {
+          "latitude": 43.075817352127,
+          "station_name": "环保局子站",
+          "station_code": "1969A",
+          "longitude": 117.87777978016
+        },
+        {
+          "latitude": 36.89210571763,
+          "station_name": "人民广场子站",
+          "station_code": "1970A",
+          "longitude": 120.52496673326
+        }
+      ]
+    },
+    {
+      "city": "莱州",
+      "areaid": "101120502",
+      "stations": [
+        {
+          "latitude": 37.186292848802,
+          "station_name": "莱州环保局",
+          "station_code": "1977A",
+          "longitude": 119.96535141581
+        },
+        {
+          "latitude": 37.190401374398,
+          "station_name": "莱州外经委",
+          "station_code": "1978A",
+          "longitude": 120.00134352944
+        }
+      ]
+    },
+    {
+      "city": "蓬莱",
+      "areaid": "101120504",
+      "stations": [
+        {
+          "latitude": 37.81384345497,
+          "station_name": "蓬莱环保局",
+          "station_code": "1973A",
+          "longitude": 120.77915179935
+        },
+        {
+          "latitude": 37.661160410834,
+          "station_name": "蓬莱博物馆",
+          "station_code": "1974A",
+          "longitude": 120.86269428184
+        }
+      ]
+    },
+    {
+      "city": "招远",
+      "areaid": "101120506",
+      "stations": [
+        {
+          "latitude": 37.380431877874,
+          "station_name": "招远环保局",
+          "station_code": "1975A",
+          "longitude": 120.41079623515
+        },
+        {
+          "latitude": 37.344145870524,
+          "station_name": "招远教育局",
+          "station_code": "1976A",
+          "longitude": 120.40051706225
+        }
+      ]
+    },
+    {
+      "city": "寿光",
+      "areaid": "101120603",
+      "stations": [
+        {
+          "latitude": 37.029891849506,
+          "station_name": "监测站",
+          "station_code": "1959A",
+          "longitude": 118.85253352124
+        },
+        {
+          "latitude": 36.864569174719,
+          "station_name": "世纪学校",
+          "station_code": "1960A",
+          "longitude": 118.78831230609
+        }
+      ]
+    },
+    {
+      "city": "文登",
+      "areaid": "101121302",
+      "stations": [
+        {
+          "latitude": 37.203786966616,
+          "station_name": "文登市环保局",
+          "station_code": "1981A",
+          "longitude": 122.05154783556
+        },
+        {
+          "latitude": 37.154120269781,
+          "station_name": "文登市丝绸公司",
+          "station_code": "1982A",
+          "longitude": 122.01078223325
+        }
+      ]
+    },
+    {
+      "city": "荣成",
+      "areaid": "101121303",
+      "stations": [
+        {
+          "latitude": 37.160437588825,
+          "station_name": "荣成市环保局办公楼",
+          "station_code": "1979A",
+          "longitude": 122.48253236161
+        },
+        {
+          "latitude": 37.371492000999,
+          "station_name": "山东成山轮胎公司",
+          "station_code": "1980A",
+          "longitude": 122.55831754664
+        }
+      ]
+    },
+    {
+      "city": "乳山",
+      "areaid": "101121304",
+      "stations": [
+        {
+          "latitude": 36.919384115181,
+          "station_name": "乳山市环保局",
+          "station_code": "1983A",
+          "longitude": 121.54208455541
+        },
+        {
+          "latitude": 36.976575050291,
+          "station_name": "乳山市气象局",
+          "station_code": "1984A",
+          "longitude": 121.52978797795
+        }
+      ]
+    },
+    {
+      "city": "马鞍山",
+      "areaid": "101220501",
+      "stations": [
+        {
+          "latitude": 31.725474261261,
+          "station_name": "湖东路四小",
+          "station_code": "1798A",
+          "longitude": 118.49931502692
+        },
+        {
+          "latitude": 31.68852815888,
+          "station_name": "天平服装",
+          "station_code": "1799A",
+          "longitude": 118.51588184662
+        },
+        {
+          "latitude": 31.754267790701,
+          "station_name": "慈湖二小",
+          "station_code": "1800A",
+          "longitude": 118.52009427065
+        },
+        {
+          "latitude": 31.660849305879,
+          "station_name": "马钢动力厂",
+          "station_code": "1801A",
+          "longitude": 118.51264453323
+        },
+        {
+          "latitude": 31.694364949303,
+          "station_name": "市教育基地",
+          "station_code": "1802A",
+          "longitude": 118.49608498979
+        }
+      ]
+    },
+    {
+      "city": "大庆",
+      "areaid": "101050901",
+      "stations": [
+        {
+          "latitude": 46.046204241337,
+          "station_name": "大同区",
+          "station_code": "1789A",
+          "longitude": 124.81853280177
+        },
+        {
+          "latitude": 46.567901298404,
+          "station_name": "龙凤区",
+          "station_code": "1790A",
+          "longitude": 125.14062203898
+        },
+        {
+          "latitude": 46.404189316179,
+          "station_name": "红岗区",
+          "station_code": "1791A",
+          "longitude": 124.8972989238
+        },
+        {
+          "latitude": 46.663311354817,
+          "station_name": "萨尔图区",
+          "station_code": "1792A",
+          "longitude": 125.0424515298
+        },
+        {
+          "latitude": 46.657926856224,
+          "station_name": "让胡路区",
+          "station_code": "1793A",
+          "longitude": 124.87742930422
+        }
+      ]
+    }
+  ]
+}
