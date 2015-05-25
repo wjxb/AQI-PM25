@@ -14,6 +14,7 @@ from bitarray import bitarray
 import mmh3
 reload(sys)
 sys.setdefaultencoding('utf8')
+host='192.168.100.200'
 port=8091
 pwd='111111'
 client = Couchbase.connect(bucket='lastestAQIData',  host=host ,port=port,password=pwd)
