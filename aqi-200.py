@@ -14,7 +14,6 @@ from bitarray import bitarray
 import mmh3
 reload(sys)
 sys.setdefaultencoding('utf8')
-host='10.10.10.80'
 port=8091
 pwd='111111'
 client = Couchbase.connect(bucket='lastestAQIData',  host=host ,port=port,password=pwd)
@@ -27,7 +26,7 @@ geoCountUrl='http://11.11.11.201:8092/aicc-UserProductDB/_design/spatial/_spatia
 
 citiesGeoFile = '/home/wntime/AQI/china_cities_geo.json'
 aqiGeoFile= '/var/www/data/aqiGeo.js'
-remotePath=''
+remotePath='' 
 ipPool=['125.39.66.67','218.78.210.190','114.112.91.97','114.215.108.155']
 proxy_ip=ipPool[random.randint(0,3)]
 
@@ -83,8 +82,8 @@ def cutAqiJson(data):
 		city=cityGeoObj["city"]
 		bf.add(city)
 
-	for x in range(len(jsonObj)):
-		key = jsonObj[x]["area"]
+	for x in range(len(jsonObj)): 
+		key = jsonObj[x]["area"] 
 		if bf.lookup(key)==True:
 			finallResult.append(jsonObj[x])
 	return json.dumps(finallResult, encoding='UTF-8', ensure_ascii=False)
@@ -101,9 +100,9 @@ def insertCityJson(data):
 	urllib2.install_opener(opener);
 	resp = urllib2.urlopen(baiduSpaceEntryUrl);
 
-	jsonObj = json.loads(data)
-	for x in range(len(jsonObj)):
-		key = jsonObj[x]["area"]
+	jsonObj = json.loads(data) 
+	for x in range(len(jsonObj)): 
+		key = jsonObj[x]["area"] 
 		coordinate = getcoordinate(baiduUrlAddressInCity,key,'')
 		if(coordinate==''):
 				value= jsonObj[x]
@@ -121,7 +120,7 @@ def insertCityJson(data):
 				continue
 		jsonObj[x]['latitude']=coordinateObj['result']['location']['lat']
 		jsonObj[x]['longitude']=coordinateObj['result']['location']['lng']
-		cityName = key
+		cityName = key 
 		stationUrl = url+'?city='+cityName;
 		req = urllib2.Request(stationUrl);
 		req.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36');
@@ -140,17 +139,17 @@ def insertCityJson(data):
 				break
 			if stationDataObj[k]["position_name"] is None:
 				pass
-			else:
-
+			else: 
+				  
 				for cityGeoObj in stationGeo["cityAndStation"]:
 					for stationGeoObj in cityGeoObj["stations"]:
 						if stationGeoObj["station_name"]==stationDataObj[k]["position_name"]:
 							stationDataObj[k]["latitude"]=stationGeoObj["latitude"]
 							stationDataObj[k]["longitude"]=stationGeoObj["longitude"]
 				stationArray.append(stationDataObj[k]) #
-		jsonObj[x]["stationList"] = stationArray
+		jsonObj[x]["stationList"] = stationArray 
 		value= jsonObj[x]
-		client.set(key,value)
+		client.set(key,value) 
 
 def updateCityJson(newData):
    	url='http://www.pm25.in/api/querys/aqi_details.json' #查询城市所有监测点数据
@@ -165,7 +164,7 @@ def updateCityJson(newData):
 	jsonObj = json.loads(newData)
 	for x in range(len(jsonObj)):
 		key = jsonObj[x]["area"]
-		cityName = key
+		cityName = key 
 		stationUrl = url+'?city='+cityName;
 		req = urllib2.Request(stationUrl);
 		req.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36');
@@ -184,17 +183,17 @@ def updateCityJson(newData):
 				break
 			if stationDataObj[k]["position_name"] is None:
 				pass
-			else:
-
+			else: 
+				  
 				for cityGeoObj in stationGeo["cityAndStation"]:
 					for stationGeoObj in cityGeoObj["stations"]:
 						if stationGeoObj["station_name"]==stationDataObj[k]["position_name"]:
 							stationDataObj[k]["latitude"]=stationGeoObj["latitude"]
 							stationDataObj[k]["longitude"]=stationGeoObj["longitude"]
-							stationArray.append(stationDataObj[k])
-		jsonObj[x]["stationList"] = stationArray
+							stationArray.append(stationDataObj[k]) 
+		jsonObj[x]["stationList"] = stationArray 
 		value= jsonObj[x]
-		client.set(key,value)
+		client.set(key,value) 
 
 def getcoordinate(baiduUrl,address,City):
     respInfo=''
@@ -205,8 +204,8 @@ def getcoordinate(baiduUrl,address,City):
     req.add_header('Cache-Control', 'no-cache');
     req.add_header('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8');
     try :
-        resp = urllib2.urlopen(req);
-        respInfo = resp.read();
+    	resp = urllib2.urlopen(req);
+	respInfo = resp.read();
     except :
 	s=traceback.format_exc()
         print datetime.datetime.now(),s
@@ -238,15 +237,15 @@ def insertLastData(data): #user API 1.13
 				continue
 			jsonObj[x]['latitude']=coordinateObj['result']['location']['lat']
 			jsonObj[x]['longitude']=coordinateObj['result']['location']['lng']
-		client.set(time_point,jsonObj)
-		insertCityJson(data)
+		client.set(time_point,jsonObj)           
+		insertCityJson(data)                     
 		return
 	#-------------update lastestdata ------------------
 	if time_point_db!=time_point:
 		client.set("last_time_point",time_point)
-		updateSourceData(time_point_db,data)
-		updateCityJson(data)
-		updateHistoryCityJson(time_point_db,data)
+		updateSourceData(time_point_db,data)             
+		updateCityJson(data)                             
+		updateHistoryCityJson(time_point_db,data)        
 		updateStationAQIData(data,urllogin='http://www.pm25.in/api/querys/pm2_5.json?token=5j1znBVAsnSf5xQyNQyq',url='http://www.pm25.in/api/querys/aqi_details.json')
 	else:
 		pass
@@ -259,9 +258,9 @@ def updateStationAQIData(newData,urllogin,url): #use API 1.7
 	resp = urllib2.urlopen(baiduSpaceEntryUrl);
 	for index, cookie in enumerate(cj):
 		print '[',index, ']',cookie;
-		dataObj = json.loads(newData)
-
-	for x in range(len(dataObj)):
+		dataObj = json.loads(newData) 
+		
+	for x in range(len(dataObj)): 
 		cityName = ''
 		cityName = dataObj[x]["area"].encode("utf8")
 		loginBaiduUrl = url+'?city='+cityName;
@@ -294,12 +293,12 @@ def updateSourceData(time_point_db,newData):
 		key = jsonObj[x]["area"]
 		coordinate = getcoordinate(baiduUrlAddressInCity,key,'')
 		if(coordinate==''):
-                    continue
+              		continue
                 try :
-                    coordinateObj = json.loads(coordinate)
-                except Exception,e:
-                    continue
-                if(coordinateObj['status']==1):
+                	coordinateObj = json.loads(coordinate)
+               	except Exception,e:
+                       	continue
+               	if(coordinateObj['status']==1):
                         continue
 		jsonObj[x]['latitude']=coordinateObj['result']['location']['lat']
 		jsonObj[x]['longitude']=coordinateObj['result']['location']['lng']
@@ -362,9 +361,9 @@ def updateHistoryCityJson(old_time_point_key,newData):
 		historyClient.set(jsonObj[x]["area"],result)
 if __name__ == '__main__':
 
-
+	
 	jsonData = aqiJson()
-
+	
 	if None==jsonData or ''==jsonData:
 		print 'json is null'
 	elif  ('error' in json.loads(jsonData)):
@@ -375,6 +374,6 @@ if __name__ == '__main__':
 		except :
 			s=traceback.format_exc()
 			print datetime.datetime.now(),s
-                logging.error(s)
+        		logging.error(s)
 
 
