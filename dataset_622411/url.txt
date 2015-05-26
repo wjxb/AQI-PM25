@@ -1,7 +1,3 @@
 数据标题：全国空气质量监测站点经纬度数据，共808个站点
 数据网址：http://www.datatang.com/data/46466
 数据标题：全国空气质量监测站点经纬度数据，共808个站点
-数据网址：http://www.datatang.com/data/46466
-
-加一行 weijin 
-加一行 david
