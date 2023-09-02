@@ -30,6 +30,7 @@ aqiGeoFile= '/var/www/data/aqiGeo.js'
 remotePath=''
 remotePath='' 
 ipPool=['125.39.66.67','218.78.210.190','114.112.91.97','114.215.108.155']
+
 proxy_ip=ipPool[random.randint(0,3)]
 
 class BloomFilter:
